@@ -1,0 +1,1175 @@
+٢٠:٠٢:٢٦.٠٧٧ MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:46)#init ] init sdk code is 0
+٢٠:٠٢:٢٦.١٢٤ MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:63)#collectBaseInfo ] base_info  pver--2.3.3.257--tzone--4--ip--192.168.9.163--lang--ar--os_name--vivo--os_ver--12--os_bit--0--os_lang--ar--install_time--0
+٢٠:٠٢:٢٦.١٢٧ MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:70)#collectBaseInfo ] base_info code is 0
+٢٠:٠٢:٢٦.١٣١ MobileTrans-GuideActivity[ (GuideActivity.kt:203)#initSparrow ] next:Sparrow init success 
+٢٠:٠٢:٢٦.١٤٩ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_MT_Start--action--Start_First--label--
+٢٠:٠٢:٢٦.١٤٩ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--MT_Version--label--2.3.3.257
+٢٠:٠٢:٢٦.١٥٠ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevModel--label--V2120
+٢٠:٠٢:٢٦.١٥٢ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_MT_Start--action--Start--label--
+٢٠:٠٢:٢٦.١٥٩ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevBrand--label--vivo
+٢٠:٠٢:٢٦.١٧٠ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevVersion--label--12
+٢٠:٠٢:٢٦.١٧٤ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevCountry--label--om
+٢٠:٠٢:٢٦.١٧٥ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevLanguage--label--ar
+٢٠:٠٢:٢٦.١٨٠ MobileTrans-fetchPermission[ (GuideActivity.kt:260)#onGranted ] onGranted: 获取存储权限成功
+٢٠:٠٢:٢٦.١٨٧ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevCapacity--label--16-32G
+٢٠:٠٢:٢٦.١٩١ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevCapacity_Remaining--label--16-32G
+٢٠:٠٢:٢٦.٩٣٧ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٠٢:٢٦.٩٧٣ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٠٢:٢٦.٩٨١ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٠٢:٢٦.٩٩١ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٠٢:٢٧.٣٠٩ MobileTrans-TransMainActivity[ (TransMainActivity.kt:157)#firebaseInit$lambda-1 ] token:diRsj6mfT8eT4CQYgWghm0:APA91bEYHuTMWp7hXZ-bIT7GAwErcvBVBA81KCvnEsgPfDsHN7GOlvo_LgOurHVuHaaYCzrCTKYukaS6__94lj8Tg4GrR_HF6WjHsBc79glFeLxGuLnhttkF8OnXwtQzPwOjux5oicMC
+٢٠:٠٢:٣٠.٥٧٩ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  install_time = 2022-07-06 16:02:28.820
+٢٠:٠٢:٣٠.٥٨٥ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  af_status = Organic
+٢٠:٠٢:٣٠.٥٨٩ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  af_message = organic install
+٢٠:٠٢:٣٠.٥٩٢ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  is_first_launch = true
+٢٠:٠٢:٣٠.٦٣٤ MobileTrans-api_test[ (UrlRequests.java:79)#postString ] postString: result--{"access_token":"gsrjf0wvz29m7l5a163x8kihodqnyp4e","alread_user":false,"email":"","uuid":"c0bf3ac5-f72f-4602-a445-3c3b8b8c7263"}
+
+٢٠:٠٢:٣٠.٦٣٧ MobileTrans-api_test[ (TransMainActivity.kt:171)#onResponse ] refresh: register--gsrjf0wvz29m7l5a163x8kihodqnyp4e
+٢٠:٠٤:١٠.٢٤٨ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Home_Behavior--action--Click_PersonalCenter--label--
+٢٠:٠٤:١٠.٢٦٤ MobileTrans-BillingManager[ (BillingManager.java:100)#<init> ] Creating Billing client.
+٢٠:٠٤:١٠.٢٦٧ MobileTrans-BillingManager[ (BillingManager.java:115)#initBillClient ] Starting setup.
+٢٠:٠٤:١٠.٣١٠ MobileTrans[ (AccountActivity.kt:197)#refreshUserInfo ] login local is empty
+٢٠:٠٤:١٠.٦٠٠ MobileTrans-BillingManager[ (BillingManager.java:440)#onBillingSetupFinished ] Setup finished. Response code: 0 Response msg:
+٢٠:٠٤:١٠.٦٠٧ MobileTrans-BillingManager[ (BillingManager.java:128)#run ] Setup successful. Querying inventory.
+٢٠:٠٤:١٠.٦١٧ MobileTrans-BillingManager[ (BillingManager.java:392)#run ] Querying purchases elapsed time: 6ms
+٢٠:٠٤:١٠.٦٢٧ MobileTrans-BillingManager[ (BillingManager.java:400)#run ] Querying purchases and subscriptions elapsed time: 16ms
+٢٠:٠٤:١٠.٦٢٩ MobileTrans-BillingManager[ (BillingManager.java:402)#run ] Querying subscriptions result code: 0 res: 0
+٢٠:٠٤:١٠.٦٣٤ MobileTrans-BillingManager[ (BillingManager.java:358)#onQueryPurchasesFinished ] Query inventory was successful.
+٢٠:٠٤:١٦.٩٠٦ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٠٤:١٦.٩١٦ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٠٤:١٦.٩٢٢ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٠٤:١٦.٩٣١ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٠٤:٣١.١٤٩ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--File_Transfer--action--Click_Send_data--label--
+٢٠:٠٤:٣١.٣٤١ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٠٤:٣١.٣٤٩ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٠٤:٥٢.٧١٢ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--File_Transfer--action--Click_Send_data_Remote--label--
+٢٠:٠٤:٥٢.٩١٧ MobileTrans[ (RemoteTransferHomeActivity.kt:79)#onCreate ] TransHomeActivity onCreate isFaceTrans=false
+٢٠:٠٤:٥٣.٠٥٠ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٤:٥٣.٠٥٨ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٤:٥٣.٠٦٤ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٤:٥٣.٠٧٠ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٤:٥٣.٠٧٦ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٤:٥٣.٠٨١ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٤:٥٣.٠٨٨ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 0
+٢٠:٠٤:٥٣.٠٩٤ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 1
+٢٠:٠٤:٥٣.٠٩٧ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 2
+٢٠:٠٤:٥٣.١٠٠ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 3
+٢٠:٠٤:٥٣.١٠٤ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 4
+٢٠:٠٤:٥٣.١٠٧ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 5
+٢٠:٠٤:٥٣.٤٧٠ MobileTrans[ (TransferProcessFragment.kt:72)#onViewCreated ] onViewCreated
+٢٠:٠٤:٥٣.٤٧٦ MobileTrans[ (TransferProgressHelp.java:553)#addProgressListener ] mStartTime = 0
+٢٠:٠٤:٥٣.٦٠٣ MobileTrans-onPageScrolled[ (RemoteTransferHomeActivity.kt:229)#onPageScrolled ] onPageScrolled: 0
+٢٠:٠٥:٠٣.٣٤٤ MobileTrans-onEventMainThread[ (RemoteTransferHomeActivity.kt:148)#onEventMainThread ] onEventMainThread: ACTIVITY_TAG
+٢٠:٠٥:٠٣.٣٦٣ MobileTrans-onPageSelected[ (RemoteTransferHomeActivity.kt:233)#onPageSelected ] onPageSelected: 2
+٢٠:٠٥:٠٣.٣٧٧ MobileTrans-onPageScrolled[ (RemoteTransferHomeActivity.kt:229)#onPageScrolled ] onPageScrolled: 2
+٢٠:٠٥:٠٣.٨٢٨ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--File_Transfer--action--Click_Send_data_Remote_Send--label--
+٢٠:٠٥:٠٣.٨٣٠ MobileTrans-TaskInfo[ (TaskInfo.kt:32)#<init> ] allCount=0 totalSize=0
+٢٠:٠٥:٠٣.٨٣٨ MobileTrans-api_test[ (UrlRequests.java:211)#lambda$transferCreate$4$UrlRequests ] transferCreate: {access_token=gsrjf0wvz29m7l5a163x8kihodqnyp4e, filelist={"file_list":{"files":[{"key":"c1609e2cc872e32f1738a94413f2c431","name":"\/storage\/emulated\/0\/DCIM\/Screenshots\/Screenshot_٢٠٢٢_٠٧٠٤_١٢٠٦٥١.jpg","size":"38524","type":"1"},{"key":"51f47a45175d3a1e4944244f445e6df8","name":"\/storage\/emulated\/0\/DCIM\/1656925746254.png","size":"1755692","type":"1"}],"total_num":2,"total_size":1794216,"host_url":""}}, userid=c0bf3ac5-f72f-4602-a445-3c3b8b8c7263}
+٢٠:٠٥:٠٣.٨٤٣ MobileTrans-onEventMainThread[ (RemoteTransferHomeActivity.kt:148)#onEventMainThread ] onEventMainThread: SEND_FILE
+٢٠:٠٥:٠٤.٦٨٣ MobileTrans-api_test[ (UrlRequests.java:79)#postString ] postString: result--{"code":"982974","files":[{"fileid":"4759f735-cfe4-4620-a8b8-c6a8fd2a086f","key":"c1609e2cc872e32f1738a94413f2c431","name":"/storage/emulated/0/DCIM/Screenshots/Screenshot_\u0662\u0660\u0662\u0662_\u0660\u0667\u0660\u0664_\u0661\u0662\u0660\u0666\u0665\u0661.jpg","size":"38524"},{"fileid":"d2cbbbb6-bad3-495b-a7db-0d364afaaf63","key":"51f47a45175d3a1e4944244f445e6df8","name":"/storage/emulated/0/DCIM/1656925746254.png","size":"1755692"}],"uploadid":"y8nqljb4zv3ewtfh"}
+
+٢٠:٠٥:٠٤.٦٨٧ MobileTrans-api_test[ (UrlRequests.java:105)#lambda$postDataBaseObject$0$UrlRequests ] postDataBaseObject: --post:access_token=gsrjf0wvz29m7l5a163x8kihodqnyp4e&filelist={"file_list":{"files":[{"key":"c1609e2cc872e32f1738a94413f2c431","name":"\/storage\/emulated\/0\/DCIM\/Screenshots\/Screenshot_٢٠٢٢_٠٧٠٤_١٢٠٦٥١.jpg","size":"38524","type":"1"},{"key":"51f47a45175d3a1e4944244f445e6df8","name":"\/storage\/emulated\/0\/DCIM\/1656925746254.png","size":"1755692","type":"1"}],"total_num":2,"total_size":1794216,"host_url":""}}&userid=c0bf3ac5-f72f-4602-a445-3c3b8b8c7263--url:http://www.filestrans.com:8080/transfercreate/?client_from=1&uid=c0bf3ac5-f72f-4602-a445-3c3b8b8c7263&lang=ar&version=2.3.3.257&vc=bb838731e7d982ecf6c684269a864895&timestamp=1657123503842&token=gsrjf0wvz29m7l5a163x8kihodqnyp4e
+٢٠:٠٥:٠٤.٦٩٩ MobileTrans-api_test[ (UploadTask.kt:47)#onResponse ] initData: transferCreate--982974
+٢٠:٠٥:٠٧.٢٨٥ MobileTrans-api_test[ (UrlRequests.java:79)#postString ] postString: result--{"AssumedRoleUser":{"Arn":"acs:ram::1266070635367705:role/role-oss-eus-mpfile-rw/session-name","AssumedRoleId":"316281362452496039:session-name"},"Credentials":{"AccessKeyId":"STS.NT3E1cupjtBs6qsRobsY2xj9v","AccessKeySecret":"Dy2sXBNrwYik5TKVNFjNAwoivQAkPB2vYLAhBmQ1mDke","Expiration":"2022-07-06T17:05:06Z","SecurityToken":"CAISxgJ1q6Ft5B2yfSjIr5eGDovXmK9Lw4CYNFfCtm83f9Yel6+SlDz2IHlKfnlpAu4csvk1mGFW7v0TlqVoRoReREvCKM1565kPNYUqqH+Z6aKP9rUhpMCP/wHxYkeJPKawDsz9SNTCAKnPD3nPii50x5bjaDymRCbLGJaViJlhHKJ1Ow6jdmhpCctxLAlvo9N4UHzKLqSVLwLNiGjdB1YSlWgas25k7rmlycCx8wfXiEaAqtUYvIPsOJOpHYoOfZ50SIWyx/ckNPiDgiNN8F1P7Kl3iKED6GfBp9WfCQVD/U6LLPba8potDncgPPZkQ/Ec8qOhzqMn5bSOremtlUYRZ9Myej/EWYWtzPHDHO6ULdsjfd75QS+UjIrfb8Kr6V95Oy5KalsRKsBfMHh0BFkrUSqfJ7K8vVXSbAanRu2fz7HHIx/OZ9IflxqAAQh6NAmTvCOs7+CfCvS8vl8o68TQKuKrlGRE2c/zV86eHE+rV5qdiRIoKdlW+okquoPS6jHtbZHU1lDDw0cuLj96N0q5xBnkDi1pxUHsX5vf0Bspc/7HL0gEwaCTMAGwbhY/aMKRK0eJhdUgIo0jMVGCrB3Nkw83Wdi2/ZXjG/7z"},"RequestId":"CB0B3B72-ABE8-5A1D-B08B-EBB5ADB9FBAE","bucket_name":"eus-mpfile","endpoint":"http://oss-us-west-1.aliyuncs.com"}
+
+٢٠:٠٥:٠٧.٢٩٣ MobileTrans-api_test[ (UrlRequests.java:105)#lambda$postDataBaseObject$0$UrlRequests ] postDataBaseObject: --post:access_token=gsrjf0wvz29m7l5a163x8kihodqnyp4e&uploadid=y8nqljb4zv3ewtfh&downtoken=woquwoquwoqubuqu&userid=c0bf3ac5-f72f-4602-a445-3c3b8b8c7263--url:http://www.filestrans.com:8080/token/?client_from=1&uid=c0bf3ac5-f72f-4602-a445-3c3b8b8c7263&lang=ar&version=2.3.3.257&vc=48b0cbdd2f8ac00413213e52e4bb14e5&timestamp=1657123504705&token=gsrjf0wvz29m7l5a163x8kihodqnyp4e
+٢٠:٠٥:٠٧.٣١١ MobileTrans-api_test[ (UploadTask.kt:213)#onResponse ] getStsToket: result--STS.NT3E1cupjtBs6qsRobsY2xj9v
+٢٠:٠٥:٠٧.٣٥٩ MobileTrans-api_test[ (OSSHelper.java:113)#success ] Upload OSS path:y8nqljb4zv3ewtfh/4759f735-cfe4-4620-a8b8-c6a8fd2a086f File Path:/storage/emulated/0/DCIM/Screenshots/Screenshot_٢٠٢٢_٠٧٠٤_١٢٠٦٥١.jpg
+٢٠:٠٥:٠٨.٢٧٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=2048 totalsize=38524
+٢٠:٠٥:٠٨.٢٧٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=4096 totalsize=38524
+٢٠:٠٥:٠٨.٢٨٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=6144 totalsize=38524
+٢٠:٠٥:٠٨.٢٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=8192 totalsize=38524
+٢٠:٠٥:٠٨.٣٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=10240 totalsize=38524
+٢٠:٠٥:٠٨.٣٠٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=12288 totalsize=38524
+٢٠:٠٥:٠٨.٣١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=14336 totalsize=38524
+٢٠:٠٥:٠٨.٣٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=16384 totalsize=38524
+٢٠:٠٥:٠٨.٣٣٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=18432 totalsize=38524
+٢٠:٠٥:٠٨.٣٤٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=20480 totalsize=38524
+٢٠:٠٥:٠٨.٣٤٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=22528 totalsize=38524
+٢٠:٠٥:٠٨.٣٥٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=24576 totalsize=38524
+٢٠:٠٥:٠٨.٣٦٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=26624 totalsize=38524
+٢٠:٠٥:٠٨.٣٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=28672 totalsize=38524
+٢٠:٠٥:٠٨.٣٧٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=30720 totalsize=38524
+٢٠:٠٥:٠٨.٣٨١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=32768 totalsize=38524
+٢٠:٠٥:٠٨.٣٨٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=34816 totalsize=38524
+٢٠:٠٥:٠٨.٣٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=36864 totalsize=38524
+٢٠:٠٥:٠٨.٣٩٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=2  uploadsize=38524 totalsize=38524
+٢٠:٠٥:١١.٩١٩ MobileTrans-api_test[ (OSSHelper.java:118)#onSuccess ] onSuccess: uploadfile--/storage/emulated/0/DCIM/Screenshots/Screenshot_٢٠٢٢_٠٧٠٤_١٢٠٦٥١.jpg
+٢٠:٠٥:١١.٩٢٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=38524 totalsize=1794216
+٢٠:٠٥:١١.٩٢٨ MobileTrans-api_test[ (UploadTask.kt:126)#success ] success: uploadSuccess--/storage/emulated/0/DCIM/Screenshots/Screenshot_٢٠٢٢_٠٧٠٤_١٢٠٦٥١.jpg  num:1
+٢٠:٠٥:١١.٩٣٦ MobileTrans-api_test[ (OSSHelper.java:147)#success ] uploadfile: getStatusCode--200
+٢٠:٠٥:١١.٩٤٨ MobileTrans-api_test[ (OSSHelper.java:113)#success ] Upload OSS path:y8nqljb4zv3ewtfh/d2cbbbb6-bad3-495b-a7db-0d364afaaf63 File Path:/storage/emulated/0/DCIM/1656925746254.png
+٢٠:٠٥:١٣.٦٨١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=2048 totalsize=1755692
+٢٠:٠٥:١٣.٦٨٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=4096 totalsize=1755692
+٢٠:٠٥:١٣.٦٩٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=6144 totalsize=1755692
+٢٠:٠٥:١٣.٧٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=8192 totalsize=1755692
+٢٠:٠٥:١٣.٧٠٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=10240 totalsize=1755692
+٢٠:٠٥:١٣.٧١٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=12288 totalsize=1755692
+٢٠:٠٥:١٣.٧٢١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=14336 totalsize=1755692
+٢٠:٠٥:١٣.٧٢٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=16384 totalsize=1755692
+٢٠:٠٥:١٣.٧٣٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=18432 totalsize=1755692
+٢٠:٠٥:١٣.٧٤٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=20480 totalsize=1755692
+٢٠:٠٥:١٣.٧٥٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=22528 totalsize=1755692
+٢٠:٠٥:١٣.٧٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=24576 totalsize=1755692
+٢٠:٠٥:١٣.٧٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=26624 totalsize=1755692
+٢٠:٠٥:١٣.٧٧٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=28672 totalsize=1755692
+٢٠:٠٥:١٣.٧٧٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=30720 totalsize=1755692
+٢٠:٠٥:١٣.٧٨٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=32768 totalsize=1755692
+٢٠:٠٥:١٣.٧٨٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=34816 totalsize=1755692
+٢٠:٠٥:١٣.٧٩١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=36864 totalsize=1755692
+٢٠:٠٥:١٣.٧٩٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=38912 totalsize=1755692
+٢٠:٠٥:١٣.٧٩٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=40960 totalsize=1755692
+٢٠:٠٥:١٣.٨٠٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=43008 totalsize=1755692
+٢٠:٠٥:١٣.٨٠٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=45056 totalsize=1755692
+٢٠:٠٥:١٣.٨١٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=47104 totalsize=1755692
+٢٠:٠٥:١٣.٨١٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=49152 totalsize=1755692
+٢٠:٠٥:١٣.٨٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=51200 totalsize=1755692
+٢٠:٠٥:١٣.٨٢٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=53248 totalsize=1755692
+٢٠:٠٥:١٣.٨٣٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=55296 totalsize=1755692
+٢٠:٠٥:١٣.٨٣٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=57344 totalsize=1755692
+٢٠:٠٥:١٣.٨٤١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=59392 totalsize=1755692
+٢٠:٠٥:١٣.٨٤٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=61440 totalsize=1755692
+٢٠:٠٥:١٣.٨٤٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=63488 totalsize=1755692
+٢٠:٠٥:١٣.٨٥١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=65536 totalsize=1755692
+٢٠:٠٥:١٣.٨٥٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=67584 totalsize=1755692
+٢٠:٠٥:١٣.٨٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=69632 totalsize=1755692
+٢٠:٠٥:١٣.٨٦٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=71680 totalsize=1755692
+٢٠:٠٥:١٣.٨٦٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=73728 totalsize=1755692
+٢٠:٠٥:١٣.٨٧١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=75776 totalsize=1755692
+٢٠:٠٥:١٣.٨٧٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=77824 totalsize=1755692
+٢٠:٠٥:١٣.٨٧٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=79872 totalsize=1755692
+٢٠:٠٥:١٣.٨٨٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=81920 totalsize=1755692
+٢٠:٠٥:١٣.٨٨٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=83968 totalsize=1755692
+٢٠:٠٥:١٣.٨٩١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=86016 totalsize=1755692
+٢٠:٠٥:١٣.٨٩٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=88064 totalsize=1755692
+٢٠:٠٥:١٣.٨٩٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=90112 totalsize=1755692
+٢٠:٠٥:١٣.٩٠٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=92160 totalsize=1755692
+٢٠:٠٥:١٣.٩٠٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=94208 totalsize=1755692
+٢٠:٠٥:١٣.٩١١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=96256 totalsize=1755692
+٢٠:٠٥:١٣.٩١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=98304 totalsize=1755692
+٢٠:٠٥:١٣.٩١٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=100352 totalsize=1755692
+٢٠:٠٥:١٣.٩٢٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=102400 totalsize=1755692
+٢٠:٠٥:١٣.٩٢٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=104448 totalsize=1755692
+٢٠:٠٥:١٣.٩٣٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=106496 totalsize=1755692
+٢٠:٠٥:١٣.٩٣٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=108544 totalsize=1755692
+٢٠:٠٥:١٣.٩٣٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=110592 totalsize=1755692
+٢٠:٠٥:١٣.٩٤٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=112640 totalsize=1755692
+٢٠:٠٥:١٣.٩٤٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=114688 totalsize=1755692
+٢٠:٠٥:١٣.٩٥١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=116736 totalsize=1755692
+٢٠:٠٥:١٣.٩٥٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=118784 totalsize=1755692
+٢٠:٠٥:١٣.٩٦٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=120832 totalsize=1755692
+٢٠:٠٥:١٣.٩٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=122880 totalsize=1755692
+٢٠:٠٥:١٣.٩٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=124928 totalsize=1755692
+٢٠:٠٥:١٣.٩٧٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=126976 totalsize=1755692
+٢٠:٠٥:١٣.٩٧٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=129024 totalsize=1755692
+٢٠:٠٥:١٣.٩٨٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=131072 totalsize=1755692
+٢٠:٠٥:١٣.٩٨٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=133120 totalsize=1755692
+٢٠:٠٥:١٣.٩٩٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=135168 totalsize=1755692
+٢٠:٠٥:١٣.٩٩٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=137216 totalsize=1755692
+٢٠:٠٥:١٤.٠٠٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=139264 totalsize=1755692
+٢٠:٠٥:١٤.٠١١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=141312 totalsize=1755692
+٢٠:٠٥:١٤.٠١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=143360 totalsize=1755692
+٢٠:٠٥:١٤.٠٢٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=145408 totalsize=1755692
+٢٠:٠٥:١٤.٠٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=147456 totalsize=1755692
+٢٠:٠٥:١٤.٠٢٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=149504 totalsize=1755692
+٢٠:٠٥:١٤.٠٣٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=151552 totalsize=1755692
+٢٠:٠٥:١٤.٠٣٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=153600 totalsize=1755692
+٢٠:٠٥:١٤.٠٤١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=155648 totalsize=1755692
+٢٠:٠٥:١٤.٠٤٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=157696 totalsize=1755692
+٢٠:٠٥:١٤.٠٤٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=159744 totalsize=1755692
+٢٠:٠٥:١٤.٠٥٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=161792 totalsize=1755692
+٢٠:٠٥:١٤.٠٥٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=163840 totalsize=1755692
+٢٠:٠٥:١٤.٠٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=165888 totalsize=1755692
+٢٠:٠٥:١٤.٠٦٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=167936 totalsize=1755692
+٢٠:٠٥:١٤.٠٦٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=169984 totalsize=1755692
+٢٠:٠٥:١٤.٠٧٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=172032 totalsize=1755692
+٢٠:٠٥:١٤.٠٧٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=174080 totalsize=1755692
+٢٠:٠٥:١٤.٠٨٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=176128 totalsize=1755692
+٢٠:٠٥:١٤.٠٨٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=178176 totalsize=1755692
+٢٠:٠٥:١٤.٠٨٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=180224 totalsize=1755692
+٢٠:٠٥:١٤.٠٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=182272 totalsize=1755692
+٢٠:٠٥:١٤.٠٩٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=184320 totalsize=1755692
+٢٠:٠٥:١٤.١٠٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=186368 totalsize=1755692
+٢٠:٠٥:١٤.١٠٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=188416 totalsize=1755692
+٢٠:٠٥:١٤.١١٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=190464 totalsize=1755692
+٢٠:٠٥:١٤.١١٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=192512 totalsize=1755692
+٢٠:٠٥:١٤.١١٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=194560 totalsize=1755692
+٢٠:٠٥:١٤.١٢١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=196608 totalsize=1755692
+٢٠:٠٥:١٤.١٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=198656 totalsize=1755692
+٢٠:٠٥:١٤.١٢٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=200704 totalsize=1755692
+٢٠:٠٥:١٤.١٣٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=202752 totalsize=1755692
+٢٠:٠٥:١٤.١٣٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=204800 totalsize=1755692
+٢٠:٠٥:١٤.١٤٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=206848 totalsize=1755692
+٢٠:٠٥:١٤.١٤٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=208896 totalsize=1755692
+٢٠:٠٥:١٤.١٤٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=210944 totalsize=1755692
+٢٠:٠٥:١٤.١٥٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=212992 totalsize=1755692
+٢٠:٠٥:١٤.١٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=215040 totalsize=1755692
+٢٠:٠٥:١٤.١٥٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=217088 totalsize=1755692
+٢٠:٠٥:١٤.١٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=219136 totalsize=1755692
+٢٠:٠٥:١٤.١٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=221184 totalsize=1755692
+٢٠:٠٥:١٤.١٦٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=223232 totalsize=1755692
+٢٠:٠٥:١٤.١٧٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=225280 totalsize=1755692
+٢٠:٠٥:١٤.١٧٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=227328 totalsize=1755692
+٢٠:٠٥:١٤.١٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=229376 totalsize=1755692
+٢٠:٠٥:١٤.١٨٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=231424 totalsize=1755692
+٢٠:٠٥:١٤.١٨٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=233472 totalsize=1755692
+٢٠:٠٥:١٤.١٩٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=235520 totalsize=1755692
+٢٠:٠٥:١٤.١٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=237568 totalsize=1755692
+٢٠:٠٥:١٤.١٩٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=239616 totalsize=1755692
+٢٠:٠٥:١٤.٢٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=241664 totalsize=1755692
+٢٠:٠٥:١٤.٢٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=243712 totalsize=1755692
+٢٠:٠٥:١٤.٢٠٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=245760 totalsize=1755692
+٢٠:٠٥:١٤.٢١١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=247808 totalsize=1755692
+٢٠:٠٥:١٤.٢١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=249856 totalsize=1755692
+٢٠:٠٥:١٤.٢١٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=251904 totalsize=1755692
+٢٠:٠٥:١٤.٢٢٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=253952 totalsize=1755692
+٢٠:٠٥:١٤.٢٢٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=256000 totalsize=1755692
+٢٠:٠٥:١٤.٢٢٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=258048 totalsize=1755692
+٢٠:٠٥:١٤.٢٣٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=260096 totalsize=1755692
+٢٠:٠٥:١٤.٢٣٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=262144 totalsize=1755692
+٢٠:٠٥:١٤.٢٤٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=264192 totalsize=1755692
+٢٠:٠٥:١٤.٢٤٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=266240 totalsize=1755692
+٢٠:٠٥:١٤.٢٤٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=268288 totalsize=1755692
+٢٠:٠٥:١٤.٢٥٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=270336 totalsize=1755692
+٢٠:٠٥:١٤.٢٥٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=272384 totalsize=1755692
+٢٠:٠٥:١٤.٢٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=274432 totalsize=1755692
+٢٠:٠٥:١٤.٢٦٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=276480 totalsize=1755692
+٢٠:٠٥:١٤.٢٦٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=278528 totalsize=1755692
+٢٠:٠٥:١٤.٢٧١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=280576 totalsize=1755692
+٢٠:٠٥:١٤.٢٧٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=282624 totalsize=1755692
+٢٠:٠٥:١٤.٢٧٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=284672 totalsize=1755692
+٢٠:٠٥:١٤.٢٨١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=286720 totalsize=1755692
+٢٠:٠٥:١٤.٢٨٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=288768 totalsize=1755692
+٢٠:٠٥:١٤.٢٨٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=290816 totalsize=1755692
+٢٠:٠٥:١٤.٢٩٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=292864 totalsize=1755692
+٢٠:٠٥:١٤.٢٩٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=294912 totalsize=1755692
+٢٠:٠٥:١٤.٢٩٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=296960 totalsize=1755692
+٢٠:٠٥:١٤.٣٠٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=299008 totalsize=1755692
+٢٠:٠٥:١٤.٣٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=301056 totalsize=1755692
+٢٠:٠٥:١٤.٣٠٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=303104 totalsize=1755692
+٢٠:٠٥:١٤.٣١٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=305152 totalsize=1755692
+٢٠:٠٥:١٤.٣١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=307200 totalsize=1755692
+٢٠:٠٥:١٤.٣١٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=309248 totalsize=1755692
+٢٠:٠٥:١٤.٣٢٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=311296 totalsize=1755692
+٢٠:٠٥:١٤.٣٢٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=313344 totalsize=1755692
+٢٠:٠٥:١٤.٣٢٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=315392 totalsize=1755692
+٢٠:٠٥:١٤.٣٣٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=317440 totalsize=1755692
+٢٠:٠٥:١٤.٣٣٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=319488 totalsize=1755692
+٢٠:٠٥:١٤.٣٤٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=321536 totalsize=1755692
+٢٠:٠٥:١٤.٣٤٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=323584 totalsize=1755692
+٢٠:٠٥:١٤.٣٤٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=325632 totalsize=1755692
+٢٠:٠٥:١٤.٣٥٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=327680 totalsize=1755692
+٢٠:٠٥:١٤.٣٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=329728 totalsize=1755692
+٢٠:٠٥:١٤.٣٥٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=331776 totalsize=1755692
+٢٠:٠٥:١٤.٣٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=333824 totalsize=1755692
+٢٠:٠٥:١٤.٣٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=335872 totalsize=1755692
+٢٠:٠٥:١٤.٣٦٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=337920 totalsize=1755692
+٢٠:٠٥:١٤.٣٧٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=339968 totalsize=1755692
+٢٠:٠٥:١٤.٣٧٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=342016 totalsize=1755692
+٢٠:٠٥:١٤.٣٨٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=344064 totalsize=1755692
+٢٠:٠٥:١٤.٣٨٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=346112 totalsize=1755692
+٢٠:٠٥:١٤.٣٨٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=348160 totalsize=1755692
+٢٠:٠٥:١٤.٣٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=350208 totalsize=1755692
+٢٠:٠٥:١٤.٣٩٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=352256 totalsize=1755692
+٢٠:٠٥:١٤.٤٠٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=354304 totalsize=1755692
+٢٠:٠٥:١٤.٤٠٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=356352 totalsize=1755692
+٢٠:٠٥:١٤.٤٠٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=358400 totalsize=1755692
+٢٠:٠٥:١٤.٤١١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=360448 totalsize=1755692
+٢٠:٠٥:١٤.٤١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=362496 totalsize=1755692
+٢٠:٠٥:١٤.٤٢٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=364544 totalsize=1755692
+٢٠:٠٥:١٤.٤٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=366592 totalsize=1755692
+٢٠:٠٥:١٤.٤٢٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=368640 totalsize=1755692
+٢٠:٠٥:١٤.٤٣٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=370688 totalsize=1755692
+٢٠:٠٥:١٤.٤٣٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=372736 totalsize=1755692
+٢٠:٠٥:١٤.٤٣٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=374784 totalsize=1755692
+٢٠:٠٥:١٤.٤٤٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=376832 totalsize=1755692
+٢٠:٠٥:١٤.٤٤٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=378880 totalsize=1755692
+٢٠:٠٥:١٤.٤٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=380928 totalsize=1755692
+٢٠:٠٥:١٤.٤٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=382976 totalsize=1755692
+٢٠:٠٥:١٤.٤٦٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=385024 totalsize=1755692
+٢٠:٠٥:١٤.٤٦٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=387072 totalsize=1755692
+٢٠:٠٥:١٤.٤٧١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=389120 totalsize=1755692
+٢٠:٠٥:١٤.٤٧٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=391168 totalsize=1755692
+٢٠:٠٥:١٤.٤٧٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=393216 totalsize=1755692
+٢٠:٠٥:١٤.٤٨١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=395264 totalsize=1755692
+٢٠:٠٥:١٤.٤٨٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=397312 totalsize=1755692
+٢٠:٠٥:١٤.٤٨٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=399360 totalsize=1755692
+٢٠:٠٥:١٤.٤٩١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=401408 totalsize=1755692
+٢٠:٠٥:١٤.٤٩٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=403456 totalsize=1755692
+٢٠:٠٥:١٤.٤٩٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=405504 totalsize=1755692
+٢٠:٠٥:١٤.٥٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=407552 totalsize=1755692
+٢٠:٠٥:١٤.٥٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=409600 totalsize=1755692
+٢٠:٠٥:١٤.٥٠٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=411648 totalsize=1755692
+٢٠:٠٥:١٤.٥١١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=413696 totalsize=1755692
+٢٠:٠٥:١٤.٥١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=415744 totalsize=1755692
+٢٠:٠٥:١٤.٥١٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=417792 totalsize=1755692
+٢٠:٠٥:١٤.٥٢٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=419840 totalsize=1755692
+٢٠:٠٥:١٤.٥٢٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=421888 totalsize=1755692
+٢٠:٠٥:١٤.٥٢٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=423936 totalsize=1755692
+٢٠:٠٥:١٤.٥٣٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=425984 totalsize=1755692
+٢٠:٠٥:١٤.٥٣٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=428032 totalsize=1755692
+٢٠:٠٥:١٤.٥٣٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=430080 totalsize=1755692
+٢٠:٠٥:١٤.٥٤٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=432128 totalsize=1755692
+٢٠:٠٥:١٤.٥٤٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=434176 totalsize=1755692
+٢٠:٠٥:١٤.٥٥٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=436224 totalsize=1755692
+٢٠:٠٥:١٤.٥٥٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=438272 totalsize=1755692
+٢٠:٠٥:١٤.٥٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=440320 totalsize=1755692
+٢٠:٠٥:١٤.٥٦٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=442368 totalsize=1755692
+٢٠:٠٥:١٤.٥٦٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=444416 totalsize=1755692
+٢٠:٠٥:١٤.٥٧٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=446464 totalsize=1755692
+٢٠:٠٥:١٤.٥٧٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=448512 totalsize=1755692
+٢٠:٠٥:١٤.٥٧٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=450560 totalsize=1755692
+٢٠:٠٥:١٤.٥٨١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=452608 totalsize=1755692
+٢٠:٠٥:١٤.٥٨٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=454656 totalsize=1755692
+٢٠:٠٥:١٤.٥٨٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=456704 totalsize=1755692
+٢٠:٠٥:١٤.٥٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=458752 totalsize=1755692
+٢٠:٠٥:١٤.٥٩٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=460800 totalsize=1755692
+٢٠:٠٥:١٤.٦٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=462848 totalsize=1755692
+٢٠:٠٥:١٤.٦٠٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=464896 totalsize=1755692
+٢٠:٠٥:١٤.٦٠٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=466944 totalsize=1755692
+٢٠:٠٥:١٤.٦١١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=468992 totalsize=1755692
+٢٠:٠٥:١٤.٦١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=471040 totalsize=1755692
+٢٠:٠٥:١٤.٦٢٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=473088 totalsize=1755692
+٢٠:٠٥:١٤.٦٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=475136 totalsize=1755692
+٢٠:٠٥:١٤.٦٣٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=477184 totalsize=1755692
+٢٠:٠٥:١٤.٦٣٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=479232 totalsize=1755692
+٢٠:٠٥:١٤.٦٣٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=481280 totalsize=1755692
+٢٠:٠٥:١٤.٦٤٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=483328 totalsize=1755692
+٢٠:٠٥:١٤.٦٥٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=485376 totalsize=1755692
+٢٠:٠٥:١٤.٦٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=487424 totalsize=1755692
+٢٠:٠٥:١٤.٦٥٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=489472 totalsize=1755692
+٢٠:٠٥:١٤.٦٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=491520 totalsize=1755692
+٢٠:٠٥:١٤.٦٦٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=493568 totalsize=1755692
+٢٠:٠٥:١٤.٦٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=495616 totalsize=1755692
+٢٠:٠٥:١٤.٦٧٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=497664 totalsize=1755692
+٢٠:٠٥:١٤.٦٧٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=499712 totalsize=1755692
+٢٠:٠٥:١٤.٦٨٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=501760 totalsize=1755692
+٢٠:٠٥:١٤.٦٨٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=503808 totalsize=1755692
+٢٠:٠٥:١٤.٦٨٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=505856 totalsize=1755692
+٢٠:٠٥:١٤.٦٩٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=507904 totalsize=1755692
+٢٠:٠٥:١٤.٦٩٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=509952 totalsize=1755692
+٢٠:٠٥:١٤.٧٠٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=512000 totalsize=1755692
+٢٠:٠٥:١٤.٧٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=514048 totalsize=1755692
+٢٠:٠٥:١٤.٧٠٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=516096 totalsize=1755692
+٢٠:٠٥:١٤.٧١٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=518144 totalsize=1755692
+٢٠:٠٥:١٤.٧١٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=520192 totalsize=1755692
+٢٠:٠٥:١٤.٧٢١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=522240 totalsize=1755692
+٢٠:٠٥:١٤.٧٢٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=524288 totalsize=1755692
+٢٠:٠٥:١٤.٧٢٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=526336 totalsize=1755692
+٢٠:٠٥:١٤.٧٣٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=528384 totalsize=1755692
+٢٠:٠٥:١٤.٧٣٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=530432 totalsize=1755692
+٢٠:٠٥:١٤.٧٤١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=532480 totalsize=1755692
+٢٠:٠٥:١٤.٧٤٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=534528 totalsize=1755692
+٢٠:٠٥:١٤.٧٤٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=536576 totalsize=1755692
+٢٠:٠٥:١٤.٧٥٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=538624 totalsize=1755692
+٢٠:٠٥:١٤.٧٥٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=540672 totalsize=1755692
+٢٠:٠٥:١٤.٧٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=542720 totalsize=1755692
+٢٠:٠٥:١٤.٧٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=544768 totalsize=1755692
+٢٠:٠٥:١٤.٧٦٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=546816 totalsize=1755692
+٢٠:٠٥:١٤.٧٧٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=548864 totalsize=1755692
+٢٠:٠٥:١٤.٧٧٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=550912 totalsize=1755692
+٢٠:٠٥:١٤.٧٨٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=552960 totalsize=1755692
+٢٠:٠٥:١٤.٧٨٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=555008 totalsize=1755692
+٢٠:٠٥:١٤.٧٨٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=557056 totalsize=1755692
+٢٠:٠٥:١٤.٧٩١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=559104 totalsize=1755692
+٢٠:٠٥:١٤.٧٩٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=561152 totalsize=1755692
+٢٠:٠٥:١٤.٧٩٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=563200 totalsize=1755692
+٢٠:٠٥:١٤.٨٠٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=565248 totalsize=1755692
+٢٠:٠٥:١٤.٨٠٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=567296 totalsize=1755692
+٢٠:٠٥:١٤.٨١٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=569344 totalsize=1755692
+٢٠:٠٥:١٤.٨١٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=571392 totalsize=1755692
+٢٠:٠٥:١٤.٨٢٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=573440 totalsize=1755692
+٢٠:٠٥:١٤.٨٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=575488 totalsize=1755692
+٢٠:٠٥:١٤.٨٢٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=577536 totalsize=1755692
+٢٠:٠٥:١٤.٨٣٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=579584 totalsize=1755692
+٢٠:٠٥:١٤.٨٣٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=581632 totalsize=1755692
+٢٠:٠٥:١٤.٨٤٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=583680 totalsize=1755692
+٢٠:٠٥:١٤.٨٤٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=585728 totalsize=1755692
+٢٠:٠٥:١٤.٨٥٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=587776 totalsize=1755692
+٢٠:٠٥:١٤.٨٥٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=589824 totalsize=1755692
+٢٠:٠٥:١٤.٨٦٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=591872 totalsize=1755692
+٢٠:٠٥:١٤.٨٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=593920 totalsize=1755692
+٢٠:٠٥:١٤.٨٧٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=595968 totalsize=1755692
+٢٠:٠٥:١٤.٨٧٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=598016 totalsize=1755692
+٢٠:٠٥:١٤.٨٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=600064 totalsize=1755692
+٢٠:٠٥:١٤.٨٨٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=602112 totalsize=1755692
+٢٠:٠٥:١٤.٨٩٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=604160 totalsize=1755692
+٢٠:٠٥:١٤.٨٩٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=606208 totalsize=1755692
+٢٠:٠٥:١٤.٩٠٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=608256 totalsize=1755692
+٢٠:٠٥:١٤.٩٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=610304 totalsize=1755692
+٢٠:٠٥:١٤.٩١٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=612352 totalsize=1755692
+٢٠:٠٥:١٤.٩١٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=614400 totalsize=1755692
+٢٠:٠٥:١٤.٩١٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=616448 totalsize=1755692
+٢٠:٠٥:١٤.٩٢٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=618496 totalsize=1755692
+٢٠:٠٥:١٤.٩٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=620544 totalsize=1755692
+٢٠:٠٥:١٤.٩٢٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=622592 totalsize=1755692
+٢٠:٠٥:١٤.٩٣٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=624640 totalsize=1755692
+٢٠:٠٥:١٤.٩٣٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=626688 totalsize=1755692
+٢٠:٠٥:١٤.٩٣٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=628736 totalsize=1755692
+٢٠:٠٥:١٤.٩٤٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=630784 totalsize=1755692
+٢٠:٠٥:١٤.٩٤٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=632832 totalsize=1755692
+٢٠:٠٥:١٤.٩٤٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=634880 totalsize=1755692
+٢٠:٠٥:١٤.٩٥١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=636928 totalsize=1755692
+٢٠:٠٥:١٤.٩٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=638976 totalsize=1755692
+٢٠:٠٥:١٤.٩٥٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=641024 totalsize=1755692
+٢٠:٠٥:١٤.٩٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=643072 totalsize=1755692
+٢٠:٠٥:١٤.٩٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=645120 totalsize=1755692
+٢٠:٠٥:١٤.٩٦٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=647168 totalsize=1755692
+٢٠:٠٥:١٤.٩٧٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=649216 totalsize=1755692
+٢٠:٠٥:١٤.٩٧٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=651264 totalsize=1755692
+٢٠:٠٥:١٤.٩٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=653312 totalsize=1755692
+٢٠:٠٥:١٤.٩٨٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=655360 totalsize=1755692
+٢٠:٠٥:١٤.٩٨٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=657408 totalsize=1755692
+٢٠:٠٥:١٤.٩٩٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=659456 totalsize=1755692
+٢٠:٠٥:١٤.٩٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=661504 totalsize=1755692
+٢٠:٠٥:١٤.٩٩٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=663552 totalsize=1755692
+٢٠:٠٥:١٥.٠٠٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=665600 totalsize=1755692
+٢٠:٠٥:١٥.٠٠٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=667648 totalsize=1755692
+٢٠:٠٥:١٥.٠٠٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=669696 totalsize=1755692
+٢٠:٠٥:١٥.٠١١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=671744 totalsize=1755692
+٢٠:٠٥:١٥.٠١٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=673792 totalsize=1755692
+٢٠:٠٥:١٥.٠١٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=675840 totalsize=1755692
+٢٠:٠٥:١٥.٠٢١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=677888 totalsize=1755692
+٢٠:٠٥:١٥.٠٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=679936 totalsize=1755692
+٢٠:٠٥:١٥.٠٢٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=681984 totalsize=1755692
+٢٠:٠٥:١٥.٠٣١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=684032 totalsize=1755692
+٢٠:٠٥:١٥.٠٣٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=686080 totalsize=1755692
+٢٠:٠٥:١٥.٠٣٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=688128 totalsize=1755692
+٢٠:٠٥:١٥.٠٤١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=690176 totalsize=1755692
+٢٠:٠٥:١٥.٠٤٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=692224 totalsize=1755692
+٢٠:٠٥:١٥.٠٤٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=694272 totalsize=1755692
+٢٠:٠٥:١٥.٠٥١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=696320 totalsize=1755692
+٢٠:٠٥:١٥.٠٥٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=698368 totalsize=1755692
+٢٠:٠٥:١٥.٠٦٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=700416 totalsize=1755692
+٢٠:٠٥:١٥.٠٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=702464 totalsize=1755692
+٢٠:٠٥:١٥.٠٦٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=704512 totalsize=1755692
+٢٠:٠٥:١٥.٠٧١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=706560 totalsize=1755692
+٢٠:٠٥:١٥.٠٧٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=708608 totalsize=1755692
+٢٠:٠٥:١٥.٠٧٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=710656 totalsize=1755692
+٢٠:٠٥:١٥.٠٨١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=712704 totalsize=1755692
+٢٠:٠٥:١٥.٠٨٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=714752 totalsize=1755692
+٢٠:٠٥:١٥.٠٨٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=716800 totalsize=1755692
+٢٠:٠٥:١٥.٠٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=718848 totalsize=1755692
+٢٠:٠٥:١٥.٠٩٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=720896 totalsize=1755692
+٢٠:٠٥:١٥.١٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=722944 totalsize=1755692
+٢٠:٠٥:١٥.١٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=724992 totalsize=1755692
+٢٠:٠٥:١٥.١٠٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=727040 totalsize=1755692
+٢٠:٠٥:١٥.١١٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=729088 totalsize=1755692
+٢٠:٠٥:١٥.١١٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=731136 totalsize=1755692
+٢٠:٠٥:١٥.١٢٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=733184 totalsize=1755692
+٢٠:٠٥:١٥.١٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=735232 totalsize=1755692
+٢٠:٠٥:١٥.١٢٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=737280 totalsize=1755692
+٢٠:٠٥:١٥.١٣٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=739328 totalsize=1755692
+٢٠:٠٥:١٥.١٣٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=741376 totalsize=1755692
+٢٠:٠٥:١٥.١٣٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=743424 totalsize=1755692
+٢٠:٠٥:١٥.١٤٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=745472 totalsize=1755692
+٢٠:٠٥:١٥.١٤٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=747520 totalsize=1755692
+٢٠:٠٥:١٥.١٤٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=749568 totalsize=1755692
+٢٠:٠٥:١٥.١٥٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=751616 totalsize=1755692
+٢٠:٠٥:١٥.١٥٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=753664 totalsize=1755692
+٢٠:٠٥:١٥.١٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=755712 totalsize=1755692
+٢٠:٠٥:١٥.١٦٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=757760 totalsize=1755692
+٢٠:٠٥:١٥.١٦٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=759808 totalsize=1755692
+٢٠:٠٥:١٥.١٧١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=761856 totalsize=1755692
+٢٠:٠٥:١٥.١٧٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=763904 totalsize=1755692
+٢٠:٠٥:١٥.١٧٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=765952 totalsize=1755692
+٢٠:٠٥:١٥.١٨٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=768000 totalsize=1755692
+٢٠:٠٥:١٥.١٨٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=770048 totalsize=1755692
+٢٠:٠٥:١٥.١٨٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=772096 totalsize=1755692
+٢٠:٠٥:١٥.١٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=774144 totalsize=1755692
+٢٠:٠٥:١٥.١٩٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=776192 totalsize=1755692
+٢٠:٠٥:١٥.٢٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=778240 totalsize=1755692
+٢٠:٠٥:١٥.٢٠٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=780288 totalsize=1755692
+٢٠:٠٥:١٥.٢٠٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=782336 totalsize=1755692
+٢٠:٠٥:١٥.٢١١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=784384 totalsize=1755692
+٢٠:٠٥:١٥.٢١٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=786432 totalsize=1755692
+٢٠:٠٥:١٥.٢١٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=788480 totalsize=1755692
+٢٠:٠٥:١٥.٢٢١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=790528 totalsize=1755692
+٢٠:٠٥:١٥.٢٢٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=792576 totalsize=1755692
+٢٠:٠٥:١٥.٢٣١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=794624 totalsize=1755692
+٢٠:٠٥:١٥.٢٣٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=796672 totalsize=1755692
+٢٠:٠٥:١٥.٢٣٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=798720 totalsize=1755692
+٢٠:٠٥:١٥.٢٤٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=800768 totalsize=1755692
+٢٠:٠٥:١٥.٢٤٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=802816 totalsize=1755692
+٢٠:٠٥:١٥.٢٥٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=804864 totalsize=1755692
+٢٠:٠٥:١٥.٢٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=806912 totalsize=1755692
+٢٠:٠٥:١٥.٢٥٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=808960 totalsize=1755692
+٢٠:٠٥:١٥.٢٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=811008 totalsize=1755692
+٢٠:٠٥:١٥.٢٦٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=813056 totalsize=1755692
+٢٠:٠٥:١٥.٢٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=815104 totalsize=1755692
+٢٠:٠٥:١٥.٢٧٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=817152 totalsize=1755692
+٢٠:٠٥:١٥.٢٧٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=819200 totalsize=1755692
+٢٠:٠٥:١٥.٢٨٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=821248 totalsize=1755692
+٢٠:٠٥:١٥.٢٨٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=823296 totalsize=1755692
+٢٠:٠٥:١٥.٢٩٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=825344 totalsize=1755692
+٢٠:٠٥:١٥.٢٩٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=827392 totalsize=1755692
+٢٠:٠٥:١٥.٢٩٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=829440 totalsize=1755692
+٢٠:٠٥:١٥.٣٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=831488 totalsize=1755692
+٢٠:٠٥:١٥.٣٠٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=833536 totalsize=1755692
+٢٠:٠٥:١٥.٣٠٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=835584 totalsize=1755692
+٢٠:٠٥:١٥.٣١٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=837632 totalsize=1755692
+٢٠:٠٥:١٥.٣١٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=839680 totalsize=1755692
+٢٠:٠٥:١٥.٣٢١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=841728 totalsize=1755692
+٢٠:٠٥:١٥.٣٢٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=843776 totalsize=1755692
+٢٠:٠٥:١٥.٣٢٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=845824 totalsize=1755692
+٢٠:٠٥:١٥.٣٣٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=847872 totalsize=1755692
+٢٠:٠٥:١٥.٣٣٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=849920 totalsize=1755692
+٢٠:٠٥:١٥.٣٤٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=851968 totalsize=1755692
+٢٠:٠٥:١٥.٣٤٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=854016 totalsize=1755692
+٢٠:٠٥:١٥.٣٤٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=856064 totalsize=1755692
+٢٠:٠٥:١٥.٣٥٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=858112 totalsize=1755692
+٢٠:٠٥:١٥.٣٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=860160 totalsize=1755692
+٢٠:٠٥:١٥.٣٥٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=862208 totalsize=1755692
+٢٠:٠٥:١٥.٣٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=864256 totalsize=1755692
+٢٠:٠٥:١٥.٣٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=866304 totalsize=1755692
+٢٠:٠٥:١٥.٣٦٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=868352 totalsize=1755692
+٢٠:٠٥:١٥.٣٧١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=870400 totalsize=1755692
+٢٠:٠٥:١٥.٣٧٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=872448 totalsize=1755692
+٢٠:٠٥:١٥.٣٧٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=874496 totalsize=1755692
+٢٠:٠٥:١٥.٣٨١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=876544 totalsize=1755692
+٢٠:٠٥:١٥.٣٨٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=878592 totalsize=1755692
+٢٠:٠٥:١٥.٣٨٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=880640 totalsize=1755692
+٢٠:٠٥:١٥.٣٩٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=882688 totalsize=1755692
+٢٠:٠٥:١٥.٣٩٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=884736 totalsize=1755692
+٢٠:٠٥:١٥.٣٩٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=886784 totalsize=1755692
+٢٠:٠٥:١٥.٤٠٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=888832 totalsize=1755692
+٢٠:٠٥:١٥.٤٠٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=890880 totalsize=1755692
+٢٠:٠٥:١٥.٤٠٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=892928 totalsize=1755692
+٢٠:٠٥:١٥.٤١٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=894976 totalsize=1755692
+٢٠:٠٥:١٥.٤١٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=897024 totalsize=1755692
+٢٠:٠٥:١٥.٤١٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=899072 totalsize=1755692
+٢٠:٠٥:١٥.٤٢٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=901120 totalsize=1755692
+٢٠:٠٥:١٥.٤٢٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=903168 totalsize=1755692
+٢٠:٠٥:١٥.٤٣٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=905216 totalsize=1755692
+٢٠:٠٥:١٥.٤٣٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=907264 totalsize=1755692
+٢٠:٠٥:١٥.٤٣٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=909312 totalsize=1755692
+٢٠:٠٥:١٥.٤٤١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=911360 totalsize=1755692
+٢٠:٠٥:١٥.٤٤٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=913408 totalsize=1755692
+٢٠:٠٥:١٥.٤٤٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=915456 totalsize=1755692
+٢٠:٠٥:١٥.٤٥١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=917504 totalsize=1755692
+٢٠:٠٥:١٥.٤٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=919552 totalsize=1755692
+٢٠:٠٥:١٥.٤٥٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=921600 totalsize=1755692
+٢٠:٠٥:١٥.٤٦٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=923648 totalsize=1755692
+٢٠:٠٥:١٥.٤٦٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=925696 totalsize=1755692
+٢٠:٠٥:١٥.٤٧٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=927744 totalsize=1755692
+٢٠:٠٥:١٥.٤٧٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=929792 totalsize=1755692
+٢٠:٠٥:١٥.٤٧٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=931840 totalsize=1755692
+٢٠:٠٥:١٥.٤٨٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=933888 totalsize=1755692
+٢٠:٠٥:١٥.٤٨٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=935936 totalsize=1755692
+٢٠:٠٥:١٥.٤٨٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=937984 totalsize=1755692
+٢٠:٠٥:١٥.٤٩٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=940032 totalsize=1755692
+٢٠:٠٥:١٥.٤٩٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=942080 totalsize=1755692
+٢٠:٠٥:١٥.٥٠٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=944128 totalsize=1755692
+٢٠:٠٥:١٥.٥٠٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=946176 totalsize=1755692
+٢٠:٠٥:١٥.٥٠٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=948224 totalsize=1755692
+٢٠:٠٥:١٥.٥١٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=950272 totalsize=1755692
+٢٠:٠٥:١٥.٥١٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=952320 totalsize=1755692
+٢٠:٠٥:١٥.٥١٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=954368 totalsize=1755692
+٢٠:٠٥:١٥.٥٢١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=956416 totalsize=1755692
+٢٠:٠٥:١٥.٥٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=958464 totalsize=1755692
+٢٠:٠٥:١٥.٥٢٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=960512 totalsize=1755692
+٢٠:٠٥:١٥.٥٣١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=962560 totalsize=1755692
+٢٠:٠٥:١٥.٥٣٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=964608 totalsize=1755692
+٢٠:٠٥:١٥.٥٣٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=966656 totalsize=1755692
+٢٠:٠٥:١٥.٥٤٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=968704 totalsize=1755692
+٢٠:٠٥:١٥.٥٤٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=970752 totalsize=1755692
+٢٠:٠٥:١٥.٥٤٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=972800 totalsize=1755692
+٢٠:٠٥:١٥.٥٥٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=974848 totalsize=1755692
+٢٠:٠٥:١٥.٥٥٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=976896 totalsize=1755692
+٢٠:٠٥:١٥.٥٦٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=978944 totalsize=1755692
+٢٠:٠٥:١٥.٥٦٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=980992 totalsize=1755692
+٢٠:٠٥:١٥.٥٦٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=983040 totalsize=1755692
+٢٠:٠٥:١٥.٥٧١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=985088 totalsize=1755692
+٢٠:٠٥:١٥.٥٧٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=987136 totalsize=1755692
+٢٠:٠٥:١٥.٥٧٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=989184 totalsize=1755692
+٢٠:٠٥:١٥.٥٨١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=991232 totalsize=1755692
+٢٠:٠٥:١٥.٥٨٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=993280 totalsize=1755692
+٢٠:٠٥:١٥.٥٨٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=995328 totalsize=1755692
+٢٠:٠٥:١٥.٥٩٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=997376 totalsize=1755692
+٢٠:٠٥:١٥.٥٩٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=999424 totalsize=1755692
+٢٠:٠٥:١٥.٥٩٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1001472 totalsize=1755692
+٢٠:٠٥:١٥.٦٠٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1003520 totalsize=1755692
+٢٠:٠٥:١٥.٦٠٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1005568 totalsize=1755692
+٢٠:٠٥:١٥.٦١١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1007616 totalsize=1755692
+٢٠:٠٥:١٥.٦١٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1009664 totalsize=1755692
+٢٠:٠٥:١٥.٦٢٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1011712 totalsize=1755692
+٢٠:٠٥:١٥.٦٢٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1013760 totalsize=1755692
+٢٠:٠٥:١٥.٦٢٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1015808 totalsize=1755692
+٢٠:٠٥:١٥.٦٣٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1017856 totalsize=1755692
+٢٠:٠٥:١٥.٦٣٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1019904 totalsize=1755692
+٢٠:٠٥:١٥.٦٤١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1021952 totalsize=1755692
+٢٠:٠٥:١٥.٦٤٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1024000 totalsize=1755692
+٢٠:٠٥:١٥.٦٥٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1026048 totalsize=1755692
+٢٠:٠٥:١٥.٦٥٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1028096 totalsize=1755692
+٢٠:٠٥:١٥.٦٥٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1030144 totalsize=1755692
+٢٠:٠٥:١٥.٦٦٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1032192 totalsize=1755692
+٢٠:٠٥:١٥.٦٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1034240 totalsize=1755692
+٢٠:٠٥:١٥.٦٦٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1036288 totalsize=1755692
+٢٠:٠٥:١٥.٦٧٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1038336 totalsize=1755692
+٢٠:٠٥:١٥.٦٧٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1040384 totalsize=1755692
+٢٠:٠٥:١٥.٦٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1042432 totalsize=1755692
+٢٠:٠٥:١٥.٦٨٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1044480 totalsize=1755692
+٢٠:٠٥:١٥.٦٨٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1046528 totalsize=1755692
+٢٠:٠٥:١٥.٦٩٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1048576 totalsize=1755692
+٢٠:٠٥:١٥.٦٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1050624 totalsize=1755692
+٢٠:٠٥:١٥.٦٩٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1052672 totalsize=1755692
+٢٠:٠٥:١٥.٧٠٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1054720 totalsize=1755692
+٢٠:٠٥:١٥.٧٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1056768 totalsize=1755692
+٢٠:٠٥:١٥.٧٠٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1058816 totalsize=1755692
+٢٠:٠٥:١٥.٧١٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1060864 totalsize=1755692
+٢٠:٠٥:١٥.٧١٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1062912 totalsize=1755692
+٢٠:٠٥:١٥.٧٢٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1064960 totalsize=1755692
+٢٠:٠٥:١٥.٧٢٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1067008 totalsize=1755692
+٢٠:٠٥:١٥.٧٣١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1069056 totalsize=1755692
+٢٠:٠٥:١٥.٧٣٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1071104 totalsize=1755692
+٢٠:٠٥:١٥.٧٤٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1073152 totalsize=1755692
+٢٠:٠٥:١٥.٧٤٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1075200 totalsize=1755692
+٢٠:٠٥:١٥.٧٥١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1077248 totalsize=1755692
+٢٠:٠٥:١٥.٧٥٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1079296 totalsize=1755692
+٢٠:٠٥:١٥.٧٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1081344 totalsize=1755692
+٢٠:٠٥:١٥.٧٦٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1083392 totalsize=1755692
+٢٠:٠٥:١٥.٧٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1085440 totalsize=1755692
+٢٠:٠٥:١٥.٧٧٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1087488 totalsize=1755692
+٢٠:٠٥:١٥.٧٧٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1089536 totalsize=1755692
+٢٠:٠٥:٣٣.٥٠٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1091584 totalsize=1755692
+٢٠:٠٥:٣٣.٥٦٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1093632 totalsize=1755692
+٢٠:٠٥:٣٣.٥٦٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1095680 totalsize=1755692
+٢٠:٠٥:٣٣.٥٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1097728 totalsize=1755692
+٢٠:٠٥:٣٣.٦٢١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1099776 totalsize=1755692
+٢٠:٠٥:٣٣.٦٣٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1101824 totalsize=1755692
+٢٠:٠٥:٣٣.٦٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1103872 totalsize=1755692
+٢٠:٠٥:٣٣.٦٦٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1105920 totalsize=1755692
+٢٠:٠٥:٣٣.٦٧٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1107968 totalsize=1755692
+٢٠:٠٥:٣٣.٦٨٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1110016 totalsize=1755692
+٢٠:٠٥:٣٣.٦٩٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1112064 totalsize=1755692
+٢٠:٠٥:٣٣.٦٩٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1114112 totalsize=1755692
+٢٠:٠٥:٣٣.٧١٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1116160 totalsize=1755692
+٢٠:٠٥:٣٣.٧١٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1118208 totalsize=1755692
+٢٠:٠٥:٣٣.٧٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1120256 totalsize=1755692
+٢٠:٠٥:٣٣.٧٣٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1122304 totalsize=1755692
+٢٠:٠٥:٣٣.٧٣٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1124352 totalsize=1755692
+٢٠:٠٥:٣٣.٧٣٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1126400 totalsize=1755692
+٢٠:٠٥:٣٣.٧٤٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1128448 totalsize=1755692
+٢٠:٠٥:٣٣.٧٤٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1130496 totalsize=1755692
+٢٠:٠٥:٣٣.٧٨٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1132544 totalsize=1755692
+٢٠:٠٥:٣٣.٧٨٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1134592 totalsize=1755692
+٢٠:٠٥:٣٣.٧٨٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1136640 totalsize=1755692
+٢٠:٠٥:٣٣.٧٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1138688 totalsize=1755692
+٢٠:٠٥:٣٣.٧٩٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1140736 totalsize=1755692
+٢٠:٠٥:٣٣.٨٠٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1142784 totalsize=1755692
+٢٠:٠٥:٣٣.٨١١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1144832 totalsize=1755692
+٢٠:٠٥:٣٣.٨١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1146880 totalsize=1755692
+٢٠:٠٥:٣٣.٨٢١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1148928 totalsize=1755692
+٢٠:٠٥:٣٣.٨٢٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1150976 totalsize=1755692
+٢٠:٠٥:٣٣.٨٢٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1153024 totalsize=1755692
+٢٠:٠٥:٣٣.٨٣٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1155072 totalsize=1755692
+٢٠:٠٥:٣٣.٨٣٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1157120 totalsize=1755692
+٢٠:٠٥:٣٣.٨٤١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1159168 totalsize=1755692
+٢٠:٠٥:٣٣.٨٤٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1161216 totalsize=1755692
+٢٠:٠٥:٣٣.٨٥٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1163264 totalsize=1755692
+٢٠:٠٥:٣٣.٨٥٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1165312 totalsize=1755692
+٢٠:٠٥:٣٣.٨٦٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1167360 totalsize=1755692
+٢٠:٠٥:٣٣.٨٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1169408 totalsize=1755692
+٢٠:٠٥:٣٣.٨٧٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1171456 totalsize=1755692
+٢٠:٠٥:٣٣.٨٧٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1173504 totalsize=1755692
+٢٠:٠٥:٣٣.٨٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1175552 totalsize=1755692
+٢٠:٠٥:٣٣.٨٨٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1177600 totalsize=1755692
+٢٠:٠٥:٣٣.٨٨٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1179648 totalsize=1755692
+٢٠:٠٥:٣٣.٨٨٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1181696 totalsize=1755692
+٢٠:٠٥:٣٣.٨٩٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1183744 totalsize=1755692
+٢٠:٠٥:٣٣.٩٠٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1185792 totalsize=1755692
+٢٠:٠٥:٣٣.٩٠٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1187840 totalsize=1755692
+٢٠:٠٥:٣٣.٩١٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1189888 totalsize=1755692
+٢٠:٠٥:٣٣.٩١٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1191936 totalsize=1755692
+٢٠:٠٥:٣٣.٩٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1193984 totalsize=1755692
+٢٠:٠٥:٣٣.٩٣٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1196032 totalsize=1755692
+٢٠:٠٥:٣٣.٩٣٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1198080 totalsize=1755692
+٢٠:٠٥:٣٣.٩٤٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1200128 totalsize=1755692
+٢٠:٠٥:٣٣.٩٥١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1202176 totalsize=1755692
+٢٠:٠٥:٣٣.٩٥٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1204224 totalsize=1755692
+٢٠:٠٥:٣٣.٩٦٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1206272 totalsize=1755692
+٢٠:٠٥:٣٣.٩٦٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1208320 totalsize=1755692
+٢٠:٠٥:٣٣.٩٧٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1210368 totalsize=1755692
+٢٠:٠٥:٣٣.٩٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1212416 totalsize=1755692
+٢٠:٠٥:٣٣.٩٨٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1214464 totalsize=1755692
+٢٠:٠٥:٣٣.٩٩٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1216512 totalsize=1755692
+٢٠:٠٥:٣٣.٩٩٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1218560 totalsize=1755692
+٢٠:٠٥:٣٤.٠٠٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1220608 totalsize=1755692
+٢٠:٠٥:٤٠.٧٩٦ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  install_time = 2022-07-06 16:02:28.820
+٢٠:٠٥:٤٠.٨٠١ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  af_status = Organic
+٢٠:٠٥:٤٠.٨٠٧ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  af_message = organic install
+٢٠:٠٥:٤٠.٨١٢ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  is_first_launch = false
+٢٠:٠٥:٤٤.٥٩٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1222656 totalsize=1755692
+٢٠:٠٥:٤٤.٥٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1224704 totalsize=1755692
+٢٠:٠٥:٤٤.٥٩٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1226752 totalsize=1755692
+٢٠:٠٥:٤٤.٦٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1228800 totalsize=1755692
+٢٠:٠٥:٤٤.٦٠٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1230848 totalsize=1755692
+٢٠:٠٥:٤٤.٦١٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1232896 totalsize=1755692
+٢٠:٠٥:٤٤.٦١٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1234944 totalsize=1755692
+٢٠:٠٥:٤٤.٦١٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1236992 totalsize=1755692
+٢٠:٠٥:٤٤.٦٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1239040 totalsize=1755692
+٢٠:٠٥:٤٤.٦٣٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1241088 totalsize=1755692
+٢٠:٠٥:٤٤.٦٣٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1243136 totalsize=1755692
+٢٠:٠٥:٤٤.٦٤٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1245184 totalsize=1755692
+٢٠:٠٥:٤٤.٦٤٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1247232 totalsize=1755692
+٢٠:٠٥:٤٤.٦٥١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1249280 totalsize=1755692
+٢٠:٠٥:٤٤.٦٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1251328 totalsize=1755692
+٢٠:٠٥:٤٤.٦٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1253376 totalsize=1755692
+٢٠:٠٥:٤٤.٦٧٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1255424 totalsize=1755692
+٢٠:٠٥:٤٤.٦٨٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1257472 totalsize=1755692
+٢٠:٠٥:٤٤.٦٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1259520 totalsize=1755692
+٢٠:٠٥:٤٤.٦٩٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1261568 totalsize=1755692
+٢٠:٠٥:٤٤.٧٠٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1263616 totalsize=1755692
+٢٠:٠٥:٤٤.٧٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1265664 totalsize=1755692
+٢٠:٠٥:٤٤.٧٠٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1267712 totalsize=1755692
+٢٠:٠٥:٤٤.٧١٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1269760 totalsize=1755692
+٢٠:٠٥:٤٤.٧١٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1271808 totalsize=1755692
+٢٠:٠٥:٤٤.٧٢٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1273856 totalsize=1755692
+٢٠:٠٥:٤٤.٧٢٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1275904 totalsize=1755692
+٢٠:٠٥:٤٤.٧٢٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1277952 totalsize=1755692
+٢٠:٠٥:٤٤.٧٣٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1280000 totalsize=1755692
+٢٠:٠٥:٤٤.٧٣٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1282048 totalsize=1755692
+٢٠:٠٥:٤٤.٧٤١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1284096 totalsize=1755692
+٢٠:٠٥:٤٤.٧٤٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1286144 totalsize=1755692
+٢٠:٠٥:٤٥.٤٤١ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  install_time = 2022-07-06 16:02:28.820
+٢٠:٠٥:٤٥.٤٤٤ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  af_status = Organic
+٢٠:٠٥:٤٥.٤٤٨ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  af_message = organic install
+٢٠:٠٥:٤٥.٤٥١ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  is_first_launch = false
+٢٠:٠٦:١١.٥٤٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1288192 totalsize=1755692
+٢٠:٠٦:١١.٥٥٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1290240 totalsize=1755692
+٢٠:٠٦:١١.٥٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1292288 totalsize=1755692
+٢٠:٠٦:١١.٥٧٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1294336 totalsize=1755692
+٢٠:٠٦:١١.٥٨٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1296384 totalsize=1755692
+٢٠:٠٦:١١.٥٩٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1298432 totalsize=1755692
+٢٠:٠٦:١١.٦٠٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1300480 totalsize=1755692
+٢٠:٠٦:١١.٦١٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1302528 totalsize=1755692
+٢٠:٠٦:١١.٦٢٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1304576 totalsize=1755692
+٢٠:٠٦:١١.٦٣٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1306624 totalsize=1755692
+٢٠:٠٦:١١.٦٣٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1308672 totalsize=1755692
+٢٠:٠٦:١١.٦٤٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1310720 totalsize=1755692
+٢٠:٠٦:١١.٦٤٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1312768 totalsize=1755692
+٢٠:٠٦:١١.٦٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1314816 totalsize=1755692
+٢٠:٠٦:١١.٦٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1316864 totalsize=1755692
+٢٠:٠٦:١١.٦٦٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1318912 totalsize=1755692
+٢٠:٠٦:١١.٦٦٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1320960 totalsize=1755692
+٢٠:٠٦:١١.٦٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1323008 totalsize=1755692
+٢٠:٠٦:١١.٦٧٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1325056 totalsize=1755692
+٢٠:٠٦:١١.٦٧٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1327104 totalsize=1755692
+٢٠:٠٦:١١.٦٨٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1329152 totalsize=1755692
+٢٠:٠٦:١١.٦٨٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1331200 totalsize=1755692
+٢٠:٠٦:١١.٦٨٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1333248 totalsize=1755692
+٢٠:٠٦:١١.٦٩٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1335296 totalsize=1755692
+٢٠:٠٦:١١.٦٩٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1337344 totalsize=1755692
+٢٠:٠٦:١١.٧٠٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1339392 totalsize=1755692
+٢٠:٠٦:١١.٧٠٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1341440 totalsize=1755692
+٢٠:٠٦:١١.٧٠٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1343488 totalsize=1755692
+٢٠:٠٦:١١.٧١٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1345536 totalsize=1755692
+٢٠:٠٦:١١.٧١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1347584 totalsize=1755692
+٢٠:٠٦:١١.٧٢٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1349632 totalsize=1755692
+٢٠:٠٦:١١.٧٢٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1351680 totalsize=1755692
+٢٠:٠٦:١١.٧٣٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1353728 totalsize=1755692
+٢٠:٠٦:١١.٧٣٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1355776 totalsize=1755692
+٢٠:٠٦:١١.٧٤٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1357824 totalsize=1755692
+٢٠:٠٦:١١.٧٤٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1359872 totalsize=1755692
+٢٠:٠٦:١١.٧٥٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1361920 totalsize=1755692
+٢٠:٠٦:١١.٧٥٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1363968 totalsize=1755692
+٢٠:٠٦:١١.٧٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1366016 totalsize=1755692
+٢٠:٠٦:١١.٧٦٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1368064 totalsize=1755692
+٢٠:٠٦:١١.٧٦٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1370112 totalsize=1755692
+٢٠:٠٦:١١.٧٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1372160 totalsize=1755692
+٢٠:٠٦:١١.٧٧٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1374208 totalsize=1755692
+٢٠:٠٦:١١.٧٧٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1376256 totalsize=1755692
+٢٠:٠٦:١١.٧٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1378304 totalsize=1755692
+٢٠:٠٦:١١.٧٨٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1380352 totalsize=1755692
+٢٠:٠٦:١١.٧٨٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1382400 totalsize=1755692
+٢٠:٠٦:١١.٧٩١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1384448 totalsize=1755692
+٢٠:٠٦:١١.٧٩٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1386496 totalsize=1755692
+٢٠:٠٦:١١.٧٩٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1388544 totalsize=1755692
+٢٠:٠٦:١١.٨٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1390592 totalsize=1755692
+٢٠:٠٦:١١.٨٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1392640 totalsize=1755692
+٢٠:٠٦:١١.٨٠٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1394688 totalsize=1755692
+٢٠:٠٦:١١.٨١٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1396736 totalsize=1755692
+٢٠:٠٦:١١.٨١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1398784 totalsize=1755692
+٢٠:٠٦:١١.٨١٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1400832 totalsize=1755692
+٢٠:٠٦:١١.٨٢٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1402880 totalsize=1755692
+٢٠:٠٦:١١.٨٢٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1404928 totalsize=1755692
+٢٠:٠٦:١١.٨٣٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1406976 totalsize=1755692
+٢٠:٠٦:١١.٨٣٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1409024 totalsize=1755692
+٢٠:٠٦:١١.٨٣٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1411072 totalsize=1755692
+٢٠:٠٦:١١.٨٤١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1413120 totalsize=1755692
+٢٠:٠٦:١١.٨٤٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1415168 totalsize=1755692
+٢٠:٠٦:١١.٨٤٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1417216 totalsize=1755692
+٢٠:٠٦:١١.٨٥٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1419264 totalsize=1755692
+٢٠:٠٦:١١.٨٥٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1421312 totalsize=1755692
+٢٠:٠٦:١١.٨٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1423360 totalsize=1755692
+٢٠:٠٦:١١.٨٦٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1425408 totalsize=1755692
+٢٠:٠٦:١١.٨٦٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1427456 totalsize=1755692
+٢٠:٠٦:١١.٨٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1429504 totalsize=1755692
+٢٠:٠٦:١١.٨٧٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1431552 totalsize=1755692
+٢٠:٠٦:١١.٨٧٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1433600 totalsize=1755692
+٢٠:٠٦:١١.٨٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1435648 totalsize=1755692
+٢٠:٠٦:١١.٨٨٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1437696 totalsize=1755692
+٢٠:٠٦:١١.٨٨٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1439744 totalsize=1755692
+٢٠:٠٦:١١.٨٩٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1441792 totalsize=1755692
+٢٠:٠٦:١١.٨٩٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1443840 totalsize=1755692
+٢٠:٠٦:١١.٨٩٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1445888 totalsize=1755692
+٢٠:٠٦:١١.٩٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1447936 totalsize=1755692
+٢٠:٠٦:١١.٩٠٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1449984 totalsize=1755692
+٢٠:٠٦:١١.٩٠٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1452032 totalsize=1755692
+٢٠:٠٦:١١.٩١٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1454080 totalsize=1755692
+٢٠:٠٦:١١.٩١٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1456128 totalsize=1755692
+٢٠:٠٦:١١.٩٢٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1458176 totalsize=1755692
+٢٠:٠٦:١١.٩٢٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1460224 totalsize=1755692
+٢٠:٠٦:١١.٩٢٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1462272 totalsize=1755692
+٢٠:٠٦:١١.٩٣٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1464320 totalsize=1755692
+٢٠:٠٦:١١.٩٣٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1466368 totalsize=1755692
+٢٠:٠٦:١١.٩٣٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1468416 totalsize=1755692
+٢٠:٠٦:١١.٩٤٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1470464 totalsize=1755692
+٢٠:٠٦:١١.٩٤٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1472512 totalsize=1755692
+٢٠:٠٦:١١.٩٤٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1474560 totalsize=1755692
+٢٠:٠٦:١١.٩٥٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1476608 totalsize=1755692
+٢٠:٠٦:١١.٩٥٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1478656 totalsize=1755692
+٢٠:٠٦:١١.٩٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1480704 totalsize=1755692
+٢٠:٠٦:١١.٩٦٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1482752 totalsize=1755692
+٢٠:٠٦:١١.٩٦٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1484800 totalsize=1755692
+٢٠:٠٦:١١.٩٧٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1486848 totalsize=1755692
+٢٠:٠٦:١١.٩٧٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1488896 totalsize=1755692
+٢٠:٠٦:١١.٩٧٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1490944 totalsize=1755692
+٢٠:٠٦:١١.٩٨١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1492992 totalsize=1755692
+٢٠:٠٦:١١.٩٨٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1495040 totalsize=1755692
+٢٠:٠٦:١١.٩٨٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1497088 totalsize=1755692
+٢٠:٠٦:١١.٩٩٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1499136 totalsize=1755692
+٢٠:٠٦:١١.٩٩٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1501184 totalsize=1755692
+٢٠:٠٦:١١.٩٩٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1503232 totalsize=1755692
+٢٠:٠٦:١٢.٠٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1505280 totalsize=1755692
+٢٠:٠٦:١٢.٠٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1507328 totalsize=1755692
+٢٠:٠٦:١٢.٠٠٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1509376 totalsize=1755692
+٢٠:٠٦:١٢.٠١٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1511424 totalsize=1755692
+٢٠:٠٦:١٢.٠١٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1513472 totalsize=1755692
+٢٠:٠٦:١٢.٠١٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1515520 totalsize=1755692
+٢٠:٠٦:١٢.٠٢٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1517568 totalsize=1755692
+٢٠:٠٦:١٢.٠٢٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1519616 totalsize=1755692
+٢٠:٠٦:١٢.٠٣١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1521664 totalsize=1755692
+٢٠:٠٦:١٢.٠٣٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1523712 totalsize=1755692
+٢٠:٠٦:١٢.٠٣٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1525760 totalsize=1755692
+٢٠:٠٦:١٢.٠٤١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1527808 totalsize=1755692
+٢٠:٠٦:١٢.٠٤٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1529856 totalsize=1755692
+٢٠:٠٦:١٢.٠٤٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1531904 totalsize=1755692
+٢٠:٠٦:١٢.٠٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1533952 totalsize=1755692
+٢٠:٠٦:١٢.٠٥٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1536000 totalsize=1755692
+٢٠:٠٦:١٢.٠٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1538048 totalsize=1755692
+٢٠:٠٦:١٢.٠٦٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1540096 totalsize=1755692
+٢٠:٠٦:١٢.٠٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1542144 totalsize=1755692
+٢٠:٠٦:١٢.٠٧٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1544192 totalsize=1755692
+٢٠:٠٦:١٢.٠٧٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1546240 totalsize=1755692
+٢٠:٠٦:١٢.٠٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1548288 totalsize=1755692
+٢٠:٠٦:١٢.٠٨٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1550336 totalsize=1755692
+٢٠:٠٦:١٢.٠٨٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1552384 totalsize=1755692
+٢٠:٠٦:١٢.٠٨٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1554432 totalsize=1755692
+٢٠:٠٦:١٢.٠٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1556480 totalsize=1755692
+٢٠:٠٦:١٢.٠٩٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1558528 totalsize=1755692
+٢٠:٠٦:١٢.٠٩٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1560576 totalsize=1755692
+٢٠:٠٦:١٢.١٠٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1562624 totalsize=1755692
+٢٠:٠٦:١٢.١٠٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1564672 totalsize=1755692
+٢٠:٠٦:١٢.١١٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1566720 totalsize=1755692
+٢٠:٠٦:١٢.١١٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1568768 totalsize=1755692
+٢٠:٠٦:١٢.١١٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1570816 totalsize=1755692
+٢٠:٠٦:١٢.١٢١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1572864 totalsize=1755692
+٢٠:٠٦:١٢.١٢٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1574912 totalsize=1755692
+٢٠:٠٦:١٢.١٢٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1576960 totalsize=1755692
+٢٠:٠٦:١٢.١٣٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1579008 totalsize=1755692
+٢٠:٠٦:١٢.١٣٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1581056 totalsize=1755692
+٢٠:٠٦:١٢.١٣٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1583104 totalsize=1755692
+٢٠:٠٦:١٢.١٤٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1585152 totalsize=1755692
+٢٠:٠٦:١٢.١٤٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1587200 totalsize=1755692
+٢٠:٠٦:١٢.١٥٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1589248 totalsize=1755692
+٢٠:٠٦:١٢.١٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1591296 totalsize=1755692
+٢٠:٠٦:١٢.١٥٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1593344 totalsize=1755692
+٢٠:٠٦:١٢.١٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1595392 totalsize=1755692
+٢٠:٠٦:١٢.١٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1597440 totalsize=1755692
+٢٠:٠٦:١٢.١٦٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1599488 totalsize=1755692
+٢٠:٠٦:١٢.١٧١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1601536 totalsize=1755692
+٢٠:٠٦:١٢.١٧٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1603584 totalsize=1755692
+٢٠:٠٦:١٢.١٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1605632 totalsize=1755692
+٢٠:٠٦:١٢.١٨٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1607680 totalsize=1755692
+٢٠:٠٦:١٢.١٨٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1609728 totalsize=1755692
+٢٠:٠٦:١٢.١٩١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1611776 totalsize=1755692
+٢٠:٠٦:١٢.١٩٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1613824 totalsize=1755692
+٢٠:٠٦:١٢.١٩٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1615872 totalsize=1755692
+٢٠:٠٦:١٢.٢٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1617920 totalsize=1755692
+٢٠:٠٦:١٢.٢١١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1619968 totalsize=1755692
+٢٠:٠٦:١٢.٢١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1622016 totalsize=1755692
+٢٠:٠٦:١٢.٢١٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1624064 totalsize=1755692
+٢٠:٠٦:١٢.٢٢٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1626112 totalsize=1755692
+٢٠:٠٦:١٢.٢٢٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1628160 totalsize=1755692
+٢٠:٠٦:١٢.٢٣٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1630208 totalsize=1755692
+٢٠:٠٦:١٢.٢٣٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1632256 totalsize=1755692
+٢٠:٠٦:١٢.٢٣٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1634304 totalsize=1755692
+٢٠:٠٦:١٢.٢٤٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1636352 totalsize=1755692
+٢٠:٠٦:١٢.٢٤٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1638400 totalsize=1755692
+٢٠:٠٦:١٢.٢٥٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1640448 totalsize=1755692
+٢٠:٠٦:١٢.٢٥٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1642496 totalsize=1755692
+٢٠:٠٦:١٢.٢٥٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1644544 totalsize=1755692
+٢٠:٠٦:١٢.٢٦١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1646592 totalsize=1755692
+٢٠:٠٦:١٢.٢٦٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1648640 totalsize=1755692
+٢٠:٠٦:١٢.٢٦٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1650688 totalsize=1755692
+٢٠:٠٦:١٢.٢٧٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1652736 totalsize=1755692
+٢٠:٠٦:١٢.٢٨١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1654784 totalsize=1755692
+٢٠:٠٦:١٢.٢٨٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1656832 totalsize=1755692
+٢٠:٠٦:١٢.٢٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1658880 totalsize=1755692
+٢٠:٠٦:١٢.٢٩٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1660928 totalsize=1755692
+٢٠:٠٦:١٢.٣٠٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1662976 totalsize=1755692
+٢٠:٠٦:١٢.٣٠٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1665024 totalsize=1755692
+٢٠:٠٦:١٢.٣١٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1667072 totalsize=1755692
+٢٠:٠٦:١٢.٣١٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1669120 totalsize=1755692
+٢٠:٠٦:١٢.٣١٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1671168 totalsize=1755692
+٢٠:٠٦:١٢.٣٢٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1673216 totalsize=1755692
+٢٠:٠٦:١٢.٣٢٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1675264 totalsize=1755692
+٢٠:٠٦:٢٣.٢٤٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1677312 totalsize=1755692
+٢٠:٠٦:٢٣.٢٦٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1679360 totalsize=1755692
+٢٠:٠٦:٢٣.٢٧٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1681408 totalsize=1755692
+٢٠:٠٦:٢٣.٢٧٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1683456 totalsize=1755692
+٢٠:٠٦:٢٣.٢٨٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1685504 totalsize=1755692
+٢٠:٠٦:٢٣.٢٩٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1687552 totalsize=1755692
+٢٠:٠٦:٢٣.٣٠٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1689600 totalsize=1755692
+٢٠:٠٦:٢٣.٣١٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1691648 totalsize=1755692
+٢٠:٠٦:٢٣.٣١٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1693696 totalsize=1755692
+٢٠:٠٦:٢٣.٣٢٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1695744 totalsize=1755692
+٢٠:٠٦:٢٣.٣٢٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1697792 totalsize=1755692
+٢٠:٠٦:٢٣.٣٣١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1699840 totalsize=1755692
+٢٠:٠٦:٢٣.٣٣٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1701888 totalsize=1755692
+٢٠:٠٦:٢٣.٣٣٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1703936 totalsize=1755692
+٢٠:٠٦:٢٣.٣٤٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1705984 totalsize=1755692
+٢٠:٠٦:٢٣.٣٤٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1708032 totalsize=1755692
+٢٠:٠٦:٢٣.٣٥٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1710080 totalsize=1755692
+٢٠:٠٦:٢٣.٣٥٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1712128 totalsize=1755692
+٢٠:٠٦:٢٣.٣٥٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1714176 totalsize=1755692
+٢٠:٠٦:٢٣.٣٦٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1716224 totalsize=1755692
+٢٠:٠٦:٢٣.٣٦٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1718272 totalsize=1755692
+٢٠:٠٦:٢٣.٣٧١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1720320 totalsize=1755692
+٢٠:٠٦:٢٣.٣٧٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1722368 totalsize=1755692
+٢٠:٠٦:٢٣.٣٨٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1724416 totalsize=1755692
+٢٠:٠٦:٢٣.٣٨٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1726464 totalsize=1755692
+٢٠:٠٦:٢٣.٣٩٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1728512 totalsize=1755692
+٢٠:٠٦:٢٣.٣٩٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1730560 totalsize=1755692
+٢٠:٠٦:٢٣.٣٩٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1732608 totalsize=1755692
+٢٠:٠٦:٢٣.٤٠١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1734656 totalsize=1755692
+٢٠:٠٦:٢٣.٤٠٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1736704 totalsize=1755692
+٢٠:٠٦:٢٣.٤٠٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1738752 totalsize=1755692
+٢٠:٠٦:٢٣.٤١٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1740800 totalsize=1755692
+٢٠:٠٦:٢٣.٤١٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1742848 totalsize=1755692
+٢٠:٠٦:٢٣.٤٢٠ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1744896 totalsize=1755692
+٢٠:٠٦:٢٣.٤٢٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1746944 totalsize=1755692
+٢٠:٠٦:٢٣.٤٢٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1748992 totalsize=1755692
+٢٠:٠٦:٢٣.٤٣١ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1751040 totalsize=1755692
+٢٠:٠٦:٢٣.٤٣٥ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1753088 totalsize=1755692
+٢٠:٠٦:٢٣.٤٣٩ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1755136 totalsize=1755692
+٢٠:٠٦:٢٣.٤٤٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=2  uploadsize=1755692 totalsize=1755692
+٢٠:٠٦:٢٩.٨٧٣ MobileTrans-api_test[ (OSSHelper.java:118)#onSuccess ] onSuccess: uploadfile--/storage/emulated/0/DCIM/1656925746254.png
+٢٠:٠٦:٢٩.٨٧٨ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=2 allCount=2  uploadsize=1794216 totalsize=1794216
+٢٠:٠٦:٢٩.٨٨٣ MobileTrans-api_test[ (UploadTask.kt:126)#success ] success: uploadSuccess--/storage/emulated/0/DCIM/1656925746254.png  num:2
+٢٠:٠٦:٢٩.٨٨٧ MobileTrans-api_test[ (UploadTask.kt:129)#success ] initData: upload finish
+٢٠:٠٦:٢٩.٨٩٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:39)#uploadSuccessUI ] uploadSuccessUI allCount=2 totalSize=1794216
+٢٠:٠٦:٢٩.٨٩٧ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--FileTransfer_Remote_Upload_Result--action--Success--label--
+٢٠:٠٦:٢٩.٩٠٥ MobileTrans-api_test[ (OSSHelper.java:147)#success ] uploadfile: getStatusCode--200
+٢٠:٠٦:٣٠.٤٥٠ MobileTrans-api_test[ (UrlRequests.java:79)#postString ] postString: result--{"status":"update success"}
+
+٢٠:٠٦:٣٠.٤٥٤ MobileTrans-api_test[ (UploadTask.kt:233)#onResponse ] onResponse: transferSetStatus--{"status":"update success"}
+
+٢٠:٠٧:٠٧.٠٦١ MobileTrans-onPageSelected[ (RemoteTransferHomeActivity.kt:233)#onPageSelected ] onPageSelected: 0
+٢٠:٠٧:٠٧.٠٧١ MobileTrans-onPageScrolled[ (RemoteTransferHomeActivity.kt:229)#onPageScrolled ] onPageScrolled: 0
+٢٠:٠٧:١١.٩٥١ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٠٧:١١.٩٦٢ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٠٧:١٣.٧٢٢ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--File_Transfer--action--Click_Send_data_Remote--label--
+٢٠:٠٧:١٣.٨٨١ MobileTrans[ (RemoteTransferHomeActivity.kt:79)#onCreate ] TransHomeActivity onCreate isFaceTrans=false
+٢٠:٠٧:١٤.٠٢٩ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:١٤.٠٣٥ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:١٤.٠٤٠ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:١٤.٠٤٥ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:١٤.٠٥١ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:١٤.٠٥٦ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:١٤.٠٦٠ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 0
+٢٠:٠٧:١٤.٠٦٤ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 1
+٢٠:٠٧:١٤.٠٦٧ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 2
+٢٠:٠٧:١٤.٠٧٠ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 3
+٢٠:٠٧:١٤.٠٧٤ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 4
+٢٠:٠٧:١٤.٠٧٧ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 5
+٢٠:٠٧:١٤.٣٤٧ MobileTrans[ (TransferProcessFragment.kt:72)#onViewCreated ] onViewCreated
+٢٠:٠٧:١٤.٣٥١ MobileTrans[ (TransferProgressHelp.java:553)#addProgressListener ] mStartTime = 0
+٢٠:٠٧:١٤.٤٦٤ MobileTrans-onPageScrolled[ (RemoteTransferHomeActivity.kt:229)#onPageScrolled ] onPageScrolled: 0
+٢٠:٠٧:٢٣.٠٠٢ MobileTrans-onEventMainThread[ (RemoteTransferHomeActivity.kt:148)#onEventMainThread ] onEventMainThread: ACTIVITY_TAG
+٢٠:٠٧:٢٣.٠١٦ MobileTrans-onPageSelected[ (RemoteTransferHomeActivity.kt:233)#onPageSelected ] onPageSelected: 2
+٢٠:٠٧:٢٣.٠٢٦ MobileTrans-onPageScrolled[ (RemoteTransferHomeActivity.kt:229)#onPageScrolled ] onPageScrolled: 2
+٢٠:٠٧:٢٣.٤٩١ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--File_Transfer--action--Click_Send_data_Remote_Send--label--
+٢٠:٠٧:٢٣.٤٩٣ MobileTrans-TaskInfo[ (TaskInfo.kt:32)#<init> ] allCount=0 totalSize=0
+٢٠:٠٧:٢٣.٤٩٩ MobileTrans-onEventMainThread[ (RemoteTransferHomeActivity.kt:148)#onEventMainThread ] onEventMainThread: SEND_FILE
+٢٠:٠٧:٢٣.٥٠١ MobileTrans-api_test[ (UrlRequests.java:211)#lambda$transferCreate$4$UrlRequests ] transferCreate: {access_token=gsrjf0wvz29m7l5a163x8kihodqnyp4e, filelist={"file_list":{"files":[{"key":"f39bfc3a33d64eebedb98e6b306ee206","name":"\/storage\/emulated\/0\/DCIM\/Screenshots\/Screenshot_٢٠٢٢٠٧٠٥_١٨٠١٠٣.jpg","size":"7258","type":"1"}],"total_num":1,"total_size":7258,"host_url":""}}, userid=c0bf3ac5-f72f-4602-a445-3c3b8b8c7263}
+٢٠:٠٧:٢٣.٨٠٩ MobileTrans-api_test[ (UrlRequests.java:79)#postString ] postString: result--{"code":"728078","files":[{"fileid":"e7a93c9a-db05-4a52-a6ab-b147f9020c9d","key":"f39bfc3a33d64eebedb98e6b306ee206","name":"/storage/emulated/0/DCIM/Screenshots/Screenshot_\u0662\u0660\u0662\u0662\u0660\u0667\u0660\u0665_\u0661\u0668\u0660\u0661\u0660\u0663.jpg","size":"7258"}],"uploadid":"2bp86esmr17oqwyd"}
+
+٢٠:٠٧:٢٣.٨١٧ MobileTrans-api_test[ (UrlRequests.java:105)#lambda$postDataBaseObject$0$UrlRequests ] postDataBaseObject: --post:access_token=gsrjf0wvz29m7l5a163x8kihodqnyp4e&filelist={"file_list":{"files":[{"key":"f39bfc3a33d64eebedb98e6b306ee206","name":"\/storage\/emulated\/0\/DCIM\/Screenshots\/Screenshot_٢٠٢٢٠٧٠٥_١٨٠١٠٣.jpg","size":"7258","type":"1"}],"total_num":1,"total_size":7258,"host_url":""}}&userid=c0bf3ac5-f72f-4602-a445-3c3b8b8c7263--url:http://www.filestrans.com:8080/transfercreate/?client_from=1&uid=c0bf3ac5-f72f-4602-a445-3c3b8b8c7263&lang=ar&version=2.3.3.257&vc=8c74f25879703775fb49618890d03599&timestamp=1657123643502&token=gsrjf0wvz29m7l5a163x8kihodqnyp4e
+٢٠:٠٧:٢٣.٨٢٦ MobileTrans-api_test[ (UploadTask.kt:47)#onResponse ] initData: transferCreate--728078
+٢٠:٠٧:٢٨.٠٩٩ MobileTrans-api_test[ (UrlRequests.java:79)#postString ] postString: result--{"AssumedRoleUser":{"Arn":"acs:ram::1266070635367705:role/role-oss-eus-mpfile-rw/session-name","AssumedRoleId":"316281362452496039:session-name"},"Credentials":{"AccessKeyId":"STS.NTCRjTMsss4fAgePMrGQW96wx","AccessKeySecret":"7Jy17kwZPgoQMRzoMZm4tgWBWs3uSMf1VsVhuQRAM1cP","Expiration":"2022-07-06T17:07:26Z","SecurityToken":"CAISxgJ1q6Ft5B2yfSjIr5f2GdDgoKxSxPaNQ0HUtE0nS9571vPcmjz2IHlKfnlpAu4csvk1mGFW7v0TlqVoRoReREvCKM1565kPN9MlqH+Z6aKP9rUhpMCP/wHxYkeJPKawDsz9SNTCAKnPD3nPii50x5bjaDymRCbLGJaViJlhHKJ1Ow6jdmhpCctxLAlvo9N4UHzKLqSVLwLNiGjdB1YSlWgas25k7rmlycCx8wfXiEaAqtUYvIPsOJOpHYoOfZ50SIWyx/ckNPiDgiNN8F1P7Kl3iKEDoz3f7o+QGFxLukqBKvXF/potDncgPPZkQ/Ec8qOhzqMn5bSOremtlUYRZ9Myej/EWYWtzPHDHO6ULdsjfd75QS+UjIrfb8Kr6V95Oy5KalsRKsBfMHh0BFkrUSqfJ7K8vVXSbAanRu2fz7HHIx/OZ9IflxqAARXv5DHLHjf8z5c+rjIONONZ2u11465G7VKeZr32EIYUHsNVpGxGC4Rmm00VayHhAoXq9I2Jd48zRTSfVYPILGlEwKhyU6qra8bWlzZ1KgsrhofIilQ6H7kvP8+hVKnd0nHGl1YrA6lk3Kq0Hm17NQKvWCq5+mtcAsK4I1YQ3xmf"},"RequestId":"5E6CE217-6F12-5C55-83DD-58F29B7AE761","bucket_name":"eus-mpfile","endpoint":"http://oss-us-west-1.aliyuncs.com"}
+
+٢٠:٠٧:٢٨.١٠٤ MobileTrans-api_test[ (UrlRequests.java:105)#lambda$postDataBaseObject$0$UrlRequests ] postDataBaseObject: --post:access_token=gsrjf0wvz29m7l5a163x8kihodqnyp4e&uploadid=2bp86esmr17oqwyd&downtoken=woquwoquwoqubuqu&userid=c0bf3ac5-f72f-4602-a445-3c3b8b8c7263--url:http://www.filestrans.com:8080/token/?client_from=1&uid=c0bf3ac5-f72f-4602-a445-3c3b8b8c7263&lang=ar&version=2.3.3.257&vc=7e0a40235fbff699d111ef498dc2be9b&timestamp=1657123643830&token=gsrjf0wvz29m7l5a163x8kihodqnyp4e
+٢٠:٠٧:٢٨.١١٦ MobileTrans-api_test[ (UploadTask.kt:213)#onResponse ] getStsToket: result--STS.NTCRjTMsss4fAgePMrGQW96wx
+٢٠:٠٧:٢٨.١٣٠ MobileTrans-api_test[ (OSSHelper.java:113)#success ] Upload OSS path:2bp86esmr17oqwyd/e7a93c9a-db05-4a52-a6ab-b147f9020c9d File Path:/storage/emulated/0/DCIM/Screenshots/Screenshot_٢٠٢٢٠٧٠٥_١٨٠١٠٣.jpg
+٢٠:٠٧:٢٨.٧٩٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=1  uploadsize=2048 totalsize=7258
+٢٠:٠٧:٢٨.٨٠٢ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=1  uploadsize=4096 totalsize=7258
+٢٠:٠٧:٢٨.٨٠٧ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=1  uploadsize=6144 totalsize=7258
+٢٠:٠٧:٢٨.٨١٣ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=0 allCount=1  uploadsize=7258 totalsize=7258
+٢٠:٠٧:٢٩.٥٤٩ MobileTrans-api_test[ (OSSHelper.java:118)#onSuccess ] onSuccess: uploadfile--/storage/emulated/0/DCIM/Screenshots/Screenshot_٢٠٢٢٠٧٠٥_١٨٠١٠٣.jpg
+٢٠:٠٧:٢٩.٥٥٦ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:31)#uploadFileSuccessUI ] num=1 allCount=1  uploadsize=7258 totalsize=7258
+٢٠:٠٧:٢٩.٥٦٢ MobileTrans-api_test[ (UploadTask.kt:126)#success ] success: uploadSuccess--/storage/emulated/0/DCIM/Screenshots/Screenshot_٢٠٢٢٠٧٠٥_١٨٠١٠٣.jpg  num:1
+٢٠:٠٧:٢٩.٥٦٩ MobileTrans-api_test[ (UploadTask.kt:129)#success ] initData: upload finish
+٢٠:٠٧:٢٩.٥٧٤ MobileTrans-TaskInfo[ (UploadTaskInfo.kt:39)#uploadSuccessUI ] uploadSuccessUI allCount=1 totalSize=7258
+٢٠:٠٧:٢٩.٥٧٨ MobileTrans-api_test[ (OSSHelper.java:147)#success ] uploadfile: getStatusCode--200
+٢٠:٠٧:٢٩.٥٧٨ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--FileTransfer_Remote_Upload_Result--action--Success--label--
+٢٠:٠٧:٣٠.١١٠ MobileTrans-api_test[ (UrlRequests.java:79)#postString ] postString: result--{"status":"update success"}
+
+٢٠:٠٧:٣٠.١١٧ MobileTrans-api_test[ (UploadTask.kt:233)#onResponse ] onResponse: transferSetStatus--{"status":"update success"}
+
+٢٠:٠٧:٣٣.٧١١ MobileTrans-onPageSelected[ (RemoteTransferHomeActivity.kt:233)#onPageSelected ] onPageSelected: 1
+٢٠:٠٧:٣٣.٧٢٤ MobileTrans-onPageScrolled[ (RemoteTransferHomeActivity.kt:229)#onPageScrolled ] onPageScrolled: 1
+٢٠:٠٧:٤٠.٦٦٤ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٠٧:٤٠.٦٨٠ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٠٧:٤٣.٠٢١ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--File_Transfer--action--Click_Send_data_Remote--label--
+٢٠:٠٧:٤٣.١٧٧ MobileTrans[ (RemoteTransferHomeActivity.kt:79)#onCreate ] TransHomeActivity onCreate isFaceTrans=false
+٢٠:٠٧:٤٣.٢٧٩ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٤٣.٢٨٤ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٤٣.٢٩١ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٤٣.٢٩٧ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٤٣.٣٠٣ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٤٣.٣٠٨ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٤٣.٣١٢ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 0
+٢٠:٠٧:٤٣.٣١٦ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 1
+٢٠:٠٧:٤٣.٣١٩ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 2
+٢٠:٠٧:٤٣.٣٢٢ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 3
+٢٠:٠٧:٤٣.٣٢٦ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 4
+٢٠:٠٧:٤٣.٣٢٩ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 5
+٢٠:٠٧:٤٣.٦٠٧ MobileTrans[ (TransferProcessFragment.kt:72)#onViewCreated ] onViewCreated
+٢٠:٠٧:٤٣.٦١١ MobileTrans[ (TransferProgressHelp.java:553)#addProgressListener ] mStartTime = 0
+٢٠:٠٧:٤٣.٧٣٤ MobileTrans-onPageScrolled[ (RemoteTransferHomeActivity.kt:229)#onPageScrolled ] onPageScrolled: 0
+٢٠:٠٧:٤٥.٥٨٧ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٠٧:٤٥.٦٠٣ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٠٧:٤٦.٨٣٤ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--File_Transfer--action--Click_Send_data_Face--label--
+٢٠:٠٧:٥٤.١٩٠ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--File_Transfer--action--Click_Send_data_Face_to_Android--label--
+٢٠:٠٧:٥٤.٣٧٠ MobileTrans[ (RemoteTransferHomeActivity.kt:79)#onCreate ] TransHomeActivity onCreate isFaceTrans=true
+٢٠:٠٧:٥٤.٤٧٧ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٥٤.٤٨٣ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٥٤.٤٨٨ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٥٤.٤٩٤ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٥٤.٤٩٩ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٥٤.٥٠٤ MobileTrans[ (FilesSendFragment.java:233)#setupTabIcons ] tablayout tab count= 6
+٢٠:٠٧:٥٤.٥٠٨ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 0
+٢٠:٠٧:٥٤.٥١١ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 1
+٢٠:٠٧:٥٤.٥١٥ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 2
+٢٠:٠٧:٥٤.٥١٨ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 3
+٢٠:٠٧:٥٤.٥٢١ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 4
+٢٠:٠٧:٥٤.٥٢٤ MobileTrans-getItem[ (FilesSendFragment.java:309)#getItem ] getItem: 5
+٢٠:٠٧:٥٤.٧٧٧ MobileTrans[ (TransferProcessFragment.kt:72)#onViewCreated ] onViewCreated
+٢٠:٠٧:٥٤.٧٨١ MobileTrans[ (TransferProgressHelp.java:553)#addProgressListener ] mStartTime = 0
+٢٠:٠٧:٥٤.٩١٦ MobileTrans-onPageScrolled[ (RemoteTransferHomeActivity.kt:229)#onPageScrolled ] onPageScrolled: 0
+٢٠:٠٨:٠٥.٢٠٨ MobileTrans-FaceTransferHelper[ (FaceTransferHelper.kt:26)#updateTransferInfo ] {"file_list":{"files":[{"key":"f39bfc3a33d64eebedb98e6b306ee206","name":"\/storage\/emulated\/0\/DCIM\/Screenshots\/Screenshot_٢٠٢٢٠٧٠٥_١٨٠١٠٣.jpg","size":"7258","type":"1"}],"total_num":1,"total_size":7258,"host_url":""}}
+٢٠:٠٨:٠٥.٣٣٨ MobileTrans-TRANS_TRANSFER[ (ConnectActivity.kt:63)#onCreate ]  select إرسال البيانات
+٢٠:٠٨:٠٥.٣٤٦ MobileTrans-TRANS_TRANSFER[ (ConnectActivity.kt:108)#setViewPager ]  select الحصول على اتصال
+٢٠:٠٨:٠٥.٣٧٠ MobileTrans[ (TransferManager.kt:400)#addTransferStateListener ] listener 245753935 mt.wondershare.mobiletrans.connect.ConnectActivity
+٢٠:٠٨:٠٥.٣٧٣ MobileTrans-TRANS_CONNECT[ (ConnectActivity.kt:96)#onTransferStateChange ] onTransferStateChange: None
+٢٠:٠٨:٠٥.٥٧٦ MobileTrans-TRANS_CONNECT[ (ScanQRCodeFragment.kt:239)#setUserVisibleHint ] ManuallyFragment--setUserVisibleHint false
+٢٠:٠٨:٠٥.٥٨١ MobileTrans-TRANS_CONNECT[ (ScanQRCodeFragment.kt:239)#setUserVisibleHint ] ManuallyFragment--setUserVisibleHint true
+٢٠:٠٨:٠٥.٥٩٣ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Transfer_Process--action--Scan_Start--label--
+٢٠:٠٨:٠٥.٥٩٤ MobileTrans-TRANS_CONNECT[ (BaseFragment.kt:286)#removeConnAndGroup ] removeConnAndGroup::--base
+٢٠:٠٨:٠٥.٦٠٤ MobileTrans-MAIN_TRANS_CONNECT[ (BaseFragment.kt:288)#removeConnAndGroup ] startAdvertise support5g =true
+٢٠:٠٨:٠٥.٦٣١ MobileTrans[ (ScanQRCodeFragment.kt:57)#onCreateView ] onCreateView
+٢٠:٠٨:٠٥.٨١٣ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:56)#start ] start: income
+٢٠:٠٨:٠٥.٨١٨ MobileTrans[ (TransferManager.kt:400)#addTransferStateListener ] listener 245753935 mt.wondershare.mobiletrans.connect.fragment.ScanQRCodeFragment
+٢٠:٠٨:٠٦.٠٤٨ MobileTrans[ (ScanQRCodeFragment.kt:225)#onChange ] onChange=Connecting true false
+٢٠:٠٨:٠٦.٠٦٠ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:89)#getLocalIpAddress ] getLocalIpAddress: 192.168.9.163
+٢٠:٠٨:٠٦.٠٦٣ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:128)#onReceive ] isValidIp 192.168.9.163
+٢٠:٠٨:٠٦.٠٧٣ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:138)#onReceive ] wifi连接到网络 "PALM HOTEL"
+٢٠:٠٨:٠٦.٠٧٦ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:201)#isValidIp ] 192.168.9.163 isValidIp--: false  groupIp=192.168.49
+٢٠:٠٨:٠٦.٠٧٩ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:146)#onReceive ] onReceive: Connecting--
+٢٠:٠٨:٠٦.٠٨٢ MobileTrans[ (ScanQRCodeFragment.kt:225)#onChange ] onChange=Connecting true false
+٢٠:٠٨:٠٦.٠٨٦ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:89)#getLocalIpAddress ] getLocalIpAddress: 192.168.9.163
+٢٠:٠٨:٠٦.٠٩٠ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:201)#isValidIp ] 192.168.9.163 isValidIp--: false  groupIp=192.168.49
+٢٠:٠٨:٠٦.٠٩٣ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:89)#getLocalIpAddress ] getLocalIpAddress: 192.168.9.163
+٢٠:٠٨:٠٦.٠٩٦ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:120)#onReceive ] --Connecting--192.168.9.163
+٢٠:٠٨:٠٦.٠٩٩ MobileTrans[ (ScanQRCodeFragment.kt:225)#onChange ] onChange=Connecting true false
+٢٠:٠٨:٠٦.١١٨ MobileTrans[ (ScanQRCodeFragment.kt:225)#onChange ] onChange=Connecting true false
+٢٠:٠٨:٢٣.٧٠٥ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٠٨:٢٣.٧١٨ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٠٨:٢٤.٩٠٧ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٠٨:٢٤.٩١٧ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٠٨:٢٤.٩٢٣ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٠٨:٢٤.٩٣٢ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:١٥:٤٦.٦٠٤ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:89)#getLocalIpAddress ] getLocalIpAddress: 192.168.57.183
+٢٠:١٥:٤٦.٦٣٢ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:128)#onReceive ] isValidIp 192.168.57.183
+٢٠:١٥:٤٦.٦٥٣ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:138)#onReceive ] wifi连接到网络 <unknown ssid>
+٢٠:١٥:٤٦.٦٧٢ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:201)#isValidIp ] 192.168.57.183 isValidIp--: false  groupIp=192.168.49
+٢٠:١٥:٤٦.٦٧٨ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:146)#onReceive ] onReceive: Connecting--
+٢٠:١٦:٢١.٣١٨ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:89)#getLocalIpAddress ] getLocalIpAddress: 192.168.57.183
+٢٠:١٦:٢١.٣٢٩ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:128)#onReceive ] isValidIp 192.168.57.183
+٢٠:١٦:٢١.٣٦٠ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:138)#onReceive ] wifi连接到网络 <unknown ssid>
+٢٠:١٦:٢١.٣٦٥ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:201)#isValidIp ] 192.168.57.183 isValidIp--: false  groupIp=192.168.49
+٢٠:١٦:٢١.٣٦٩ MobileTrans-TRANS_CONNECT[ (WifiStateObservable.kt:146)#onReceive ] onReceive: Connecting--
+٢٠:٤٣:٠٦.٠٤٦ MobileTrans-ApiConstants[ (HttpParamUtils.java:108)#createVcV2 ] EJHJ6RVIPABOKZQYGBLRI482IC7QQ947;timestamp:1657125786037;R3KMZ3RZWU5X01B5FB1TYXQX6S8E9X4K
+٢٠:٤٣:٠٦.٠٥٠ MobileTrans-ApiConstants[ (HttpParamUtils.java:108)#createVcV2 ] EJHJ6RVIPABOKZQYGBLRI482IC7QQ947;timestamp:1657125786039;R3KMZ3RZWU5X01B5FB1TYXQX6S8E9X4K
+٢٠:٤٣:٠٦.٠٥٩ MobileTrans[ (RetrofitManager.java:178)#lambda$new$0$RetrofitManager ] Sending request https://mobiletrans-api.wondershare.com/new-api/v1/activity?timestamp=1657125786037&vc=b31eeefd0c57b8d9f3ea10789054627e 
+User-Agent: MobileTrans/2.3.3.257 (Android 12)
+X-Client-Type: 4
+X-Platform: 1
+X-Client-Sn: 00000000-5ff4-9e1c-ffff-ffff9a8547ef
+X-App-Key: EJHJ6RVIPABOKZQYGBLRI482IC7QQ947
+X-Client-Ver: 2.3.3.257
+X-Lang: ar-om
+X-Timezone: Asia/Muscat
+Accept-Language: ar
+X-Prod-Ver: 2.3.3.257
+
+٢٠:٤٣:٠٦.٠٧٣ MobileTrans[ (RetrofitManager.java:178)#lambda$new$0$RetrofitManager ] Sending request https://mobiletrans-api.wondershare.com/new-api/v1/app-init?timestamp=1657125786039&vc=aee857cc4b079e6d57befc6d40675641 
+User-Agent: MobileTrans/2.3.3.257 (Android 12)
+X-Client-Type: 4
+X-Platform: 1
+X-Client-Sn: 00000000-5ff4-9e1c-ffff-ffff9a8547ef
+X-App-Key: EJHJ6RVIPABOKZQYGBLRI482IC7QQ947
+X-Client-Ver: 2.3.3.257
+X-Lang: ar-om
+X-Timezone: Asia/Muscat
+Accept-Language: ar
+X-Prod-Ver: 2.3.3.257
+
+٢٠:٤٣:٠٦.٨٧٥ MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:46)#init ] init sdk code is 0
+٢٠:٤٣:٠٦.٩٠٠ MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:63)#collectBaseInfo ] base_info  pver--2.3.3.257--tzone--4--ip--192.168.9.163--lang--ar--os_name--vivo--os_ver--12--os_bit--0--os_lang--ar--install_time--0
+٢٠:٤٣:٠٦.٩٠٨ MobileTrans-SparrowAnalytics[ (SparrowAnalytics.java:70)#collectBaseInfo ] base_info code is 0
+٢٠:٤٣:٠٦.٩١٢ MobileTrans-GuideActivity[ (GuideActivity.kt:203)#initSparrow ] next:Sparrow init success 
+٢٠:٤٣:٠٦.٩٤٢ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevVersion--label--12
+٢٠:٤٣:٠٦.٩٤٣ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--MT_Version--label--2.3.3.257
+٢٠:٤٣:٠٦.٩٤٥ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevModel--label--V2120
+٢٠:٤٣:٠٦.٩٤٥ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_MT_Start--action--Start--label--
+٢٠:٤٣:٠٦.٩٤٦ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevBrand--label--vivo
+٢٠:٤٣:٠٦.٩٥٢ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevCountry--label--om
+٢٠:٤٣:٠٦.٩٥٤ MobileTrans-fetchPermission[ (GuideActivity.kt:260)#onGranted ] onGranted: 获取存储权限成功
+٢٠:٤٣:٠٦.٩٦٢ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevLanguage--label--ar
+٢٠:٤٣:٠٦.٩٦٣ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevCapacity--label--16-32G
+٢٠:٤٣:٠٦.٩٦٤ MobileTrans-sendDateCollectEvent[ (DataAnalyticsUtil.kt:16)#sendDateCollectEvent$lambda-0 ] sendDateCollectEvent: category--Android_Device_Info--action--DevCapacity_Remaining--label--16-32G
+٢٠:٤٣:٠٧.٤٢٣ MobileTrans[ (RetrofitManager.java:204)#lambda$new$0$RetrofitManager ] Received response for https://mobiletrans-api.wondershare.com/new-api/v1/activity?timestamp=1657125786037&vc=b31eeefd0c57b8d9f3ea10789054627e in ١٣٦٧٫٩ms ٢٠٠ 
+ {"code":0,"msg":"success","data":{}}
+٢٠:٤٣:٠٧.٤٣٥ MobileTrans[ (RetrofitManager.java:204)#lambda$new$0$RetrofitManager ] Received response for https://mobiletrans-api.wondershare.com/new-api/v1/app-init?timestamp=1657125786039&vc=aee857cc4b079e6d57befc6d40675641 in ١٣٧٢٫٤ms ٢٠٠ 
+ {"code":0,"msg":"success","data":{"activity":{"new_alert":{"buy":null,"new_version":null},"free_trial_buy":null,"buy":null},"ab_test":null}}
+٢٠:٤٣:٠٧.٨٠٨ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٤٣:٠٧.٨٣٧ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٤٣:٠٧.٨٤٣ MobileTrans-MAIN_TRANS_CONNECT[ (TransferManager.kt:354)#onReset ] onReset
+٢٠:٤٣:٠٧.٨٥١ MobileTrans-TRANS_TRANSFER[ (SocketServerManager.java:104)#disConnect ]  stopSocketServer
+٢٠:٤٣:٠٨.١٤٩ MobileTrans-Event_Manager[ (EventManager.kt:70)#updateConfig$lambda-0 ] EventBean{free_trial_buy=null, buy=null, alert=null, ab_test=null}
+٢٠:٤٣:٠٨.١٥٩ MobileTrans-Event_Manager[ (EventManager.kt:96)#updateConfig$lambda-0 ] updateConfig success
+٢٠:٤٣:٠٨.١٦٣ MobileTrans[ (SplashActivity.kt:51)#invoke ] app use wutsapper sku=whatsapp_annual_subscription
+٢٠:٤٣:٠٨.١٧٠ MobileTrans-Event_Manager[ (EventManager.kt:62)#updateConfig$lambda-0 ] EventBean{free_trial_buy=null, buy=null, alert=null, ab_test=null}
+٢٠:٤٣:٠٨.١٧٨ MobileTrans-Event_Manager[ (EventManager.kt:84)#updateConfig$lambda-0 ] updateConfig success
+٢٠:٤٣:٠٨.١٨٥ MobileTrans-Wutsapper[ (SplashActivity.kt:57)#invoke ] sku=whatsapp_annual_subscription
+٢٠:٤٣:٠٨.٢٧٤ MobileTrans-TransMainActivity[ (TransMainActivity.kt:157)#firebaseInit$lambda-1 ] token:diRsj6mfT8eT4CQYgWghm0:APA91bEYHuTMWp7hXZ-bIT7GAwErcvBVBA81KCvnEsgPfDsHN7GOlvo_LgOurHVuHaaYCzrCTKYukaS6__94lj8Tg4GrR_HF6WjHsBc79glFeLxGuLnhttkF8OnXwtQzPwOjux5oicMC
+٢٠:٤٣:٠٩.٠٧١ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  install_time = 2022-07-06 16:02:28.820
+٢٠:٤٣:٠٩.٠٧٧ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  af_status = Organic
+٢٠:٤٣:٠٩.٠٨٤ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  af_message = organic install
+٢٠:٤٣:٠٩.٠٩٠ MobileTrans[ (MainApplication.kt:321)#onConversionDataSuccess ] conversion_attribute:  is_first_launch = false
+٢٠:٤٣:١٠.٦٣٠ MobileTrans-api_test[ (UrlRequests.java:79)#postString ] postString: result--{"access_token":"ym3zrai19jd0p6u8vhbsxtwqgkef5n27","alread_user":false,"email":"","uuid":"f085895f-f549-4b88-a710-636cf69f9256"}
+
+٢٠:٤٣:١٠.٦٣٩ MobileTrans-api_test[ (TransMainActivity.kt:171)#onResponse ] refresh: register--ym3zrai19jd0p6u8vhbsxtwqgkef5n27
